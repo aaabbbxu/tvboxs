@@ -13,12 +13,12 @@
     "share_pwd":"6688",
     "share_type":"115"
   },
-  {
+    {
     "share_index": "115电影",
-    "share_name": "电影合集",
-    "share_id": "1wzlcya3wsp",
-    "share_pwd":"bab4",
-    "share_type":"115"
+    "share_name": "115影视剧 100T",
+    "share_id": "swzrycn3697",
+    "share_pwd": "2618",
+    "share_type": "115"
   },
   {
     "share_index": "115电影",
@@ -41,7 +41,20 @@
     "share_pwd":"qfe8",
     "share_type":"115"
   },
-  
+    {
+    "share_index": "115电影",
+    "share_name": "香港电影合集1242部(16T)",
+    "share_id": "sw6ug2k3nom",
+    "share_pwd": "t7d0",
+    "share_type": "115"
+  },
+  {
+    "share_index": "115电影",
+    "share_name": "大陆电影(6TB)",
+    "share_id": "swzgep23wye",
+    "share_pwd": "c106",
+    "share_type": "115"
+  },
   
   {     "share_index": "115电影", 
         "share_name": "电影频道3000部",
@@ -49,7 +62,20 @@
         "share_pwd": "rc12",
         "share_type": "115"
     },
-
+  {
+    "share_index": "115电视",
+    "share_name": "115-国产剧1",
+    "share_id": "swn2dzn3zx1",
+    "share_pwd": "d994",
+    "share_type": "115"
+  },
+  {
+    "share_index": "115电视",
+    "share_name": "115-电视剧",
+    "share_id": "sw68e813nnw",
+    "share_pwd": "n9e0",
+    "share_type": "115"
+  },
     {   "share_index": "115电视",
         "share_name": "欧美剧集",
         "share_id": "swzcho13zh9",
@@ -111,16 +137,15 @@
     "share_name": "总资源",
     "share_id": "f4782ecce4eb4"
   },
-   
+     {
+    "share_index": "UC",
+    "share_name": "uc6T更新",
+    "share_id": "10b31a7c5f844"
+  },
   {
     "share_index": "UC",
     "share_name": "合集",
     "share_id": "6ef760613aab4"
-  },
-  {
-    "share_index": "UC",
-    "share_name": "资源分享",
-    "share_id": "10b31a7c5f844"
   },
   {
     "share_index": "UC",
@@ -191,105 +216,188 @@
     "share_id": "5173a250c8f7"
   },
  {
-    "share_index": "阿里",
+    "share_index": "阿里综合",
     "share_name": "NBA阿里",
     "share_id": "hVAgTmqUELD"
   },
    {
-    "share_index": "阿里",
+    "share_index": "阿里电影",
     "share_name": "阿里影视",
     "share_id": "uWa9gbM3RJ7"
   },
   {
-    "share_index": "阿里",
+    "share_index": "阿里电影",
     "share_name": "影视放映厅",
     "share_id": "M2XBc5cqBjh"
   },
   {
-    "share_index": "阿里",
+    "share_index": "阿里综合",
     "share_name": "优品阁",
     "share_id": "uWa9gbM3RJ7"
   },
   {
-    "share_index": "阿里",
+    "share_index": "阿里综合",
     "share_name": "阿里1T",
     "share_id": "mxAfB6eRgY4"
   },
   {
-    "share_index": "阿里",
+    "share_index": "阿里综合",
     "share_name": "125T",
     "share_id": "SjU1h495SNk"
   },
   {
-    "share_index": "阿里",
+    "share_index": "阿里综合",
     "share_name": "经典大合集",
     "share_id": "FfmoD4JgbVQ"
   },
   {
-    "share_index": "阿里",
+    "share_index": "阿里电影",
     "share_name": "阿里云电影",
     "share_id": "TnU27VwRy8T"
   },{
-  "share_index": "阿里",
+  "share_index": "阿里综合",
   "share_name": "老司机",
   "share_id": "5bsnAp5fbCW"
 },
 {
-  "share_index": "阿里",
+  "share_index": "阿里电视",
   "share_name": "美剧合集",
   "share_id": "x4bef6AMcSw"
 },
   {
-    "share_index": "阿里",
+    "share_index": "阿里综合",
     "share_name": "平凡中的",
     "share_id": "4ydLxf7VgH7"
   },
   {
-    "share_index": "阿里",
+    "share_index": "阿里电视",
     "share_name": "电视剧",
     "share_id": "Uhg2adVqCDE"
   },
   {
-    "share_index": "阿里",
+    "share_index": "阿里电影",
     "share_name": "欧美电影",
     "share_id": "SvhZ2NRfjwS"
   },
-  {   "share_index": "阿里",
+  {   "share_index": "阿里综合",
     "share_name": "总合集",
     "share_id": "2ZmNksEN3T1"
   },
-  {   "share_index": "阿里",
+  {   "share_index": "阿里综合",
     "share_name": "tacit0924",
     "share_id": "cdqCsAWD9wC",
     "share_pwd":"6666"
   },
-  {   "share_index": "阿里",
+  {   "share_index": "阿里综合",
     "share_name": "资源宝库",
     "share_id": "S1g5iJEL4kh"
   },
-  {   "share_index": "阿里",
-    "share_name": "YYDSVIP",
-    "share_id": "dieULBdYP3D"
-  },
-
-  {   "share_index": "阿里",
+  {   "share_index": "阿里综合",
     "share_name": "大包合集",
     "share_id": "k2vRrEu18qQ"
   },
-   {   "share_index": "阿里",
+    {
+    "share_index": "阿里综合",
+    "share_name": "阿里m3u8分享",
+    "share_id": "DKZg6i24wp5"
+  },
+ 
+ 
+  {
+    "share_index": "阿里电视",
+    "share_name": "藏宝阿里",
+    "share_id": "bmm7TR6HJPH"
+  },
+  {
+    "share_index": "阿里电视",
+    "share_name": "GRT阿里剧集",
+    "share_id": "PqYwaGCmY78"
+  },
+  {
+    "share_index": "阿里电影",
+    "share_name": "GRT阿里电影",
+    "share_id": "Xbi8HwpWw6G"
+  },
+  {
+    "share_index": "阿里动漫",
+    "share_name": "GRT阿里动漫",
+    "share_id": "pAoXpkWZdhA"
+  },
+  {
+    "share_index": "阿里综合",
+    "share_name": "xiao124阿里跟新",
+    "share_id": "FGDx443zhna"
+  },
+  {
+    "share_index": "阿里电视",
+    "share_name": "芥末阿里剧集更新中",
+    "share_id": "W4Fdadf52iG"
+  },
+  {
+    "share_index": "阿里电视",
+    "share_name": "0924阿里剧集",
+    "share_id": "Af1Cva7eemg",
+    "share_pwd": "6666"
+  },
+  {
+    "share_index": "阿里电影",
+    "share_name": "0924阿里电影",
+    "share_id": "JEQCzGd3CSR",
+    "share_pwd": "6666"
+  },
+  {
+    "share_index": "阿里动漫",
+    "share_name": "0924阿里动漫",
+    "share_id": "WHva5vLb2G2",
+    "share_pwd": "6666"
+  },
+  {
+    "share_index": "阿里综合",
+    "share_name": "0924阿里综艺纪录片",
+    "share_id": "BbdCQHqNpMy",
+    "share_pwd": "6666"
+  },
+ 
+  {
+    "share_index": "阿里综合",
+    "share_name": "阿里黄妈",
+    "share_id": "LCsnrmPGqHe",
+    "share_pwd": "6666"
+  },
+  {
+    "share_index": "阿里电影",
+    "share_name": "阿里海量电影",
+    "share_id": "mmT3y3RfNNm"
+  },
+  {
+    "share_index": "阿里综合",
+    "share_name": "YYDSVIP",
+    "share_id": "dieULBdYP3D"
+  },
+  {
+    "share_index": "阿里动漫",
+    "share_name": "风流动漫",
+    "share_id": "v1bBBEcNf9p"
+  },
+  {
+    "share_index": "阿里电视",
+    "share_name": "风流剧集",
+    "share_id": "dW5pJdgF8c9"
+  },
+   {   "share_index": "阿里动漫",
   "share_name": "动漫",
   "share_id": "4CTnVGFGxKh"
 },
-{   "share_index": "阿里",
+{   "share_index": "阿里电影",
   "share_name": "国语配音",
   "share_id": "YCdifY7Bw4U"
 },
-  {   "share_index": "阿里",
+  {   "share_index": "阿里综合",
     "share_name": "纪录片",
     "share_id": "fSNHaYST47s"
   },
   {
-    "share_index": "阿里",
+    "share_index": "阿里综合",
     "share_name": "xiaaluo",
     "share_id": "sg8CdGUwmUr"
   }
