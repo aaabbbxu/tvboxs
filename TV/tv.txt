@@ -1,6 +1,29 @@
 体育频道👉全网,#genre#
 纬来篮球,rtmp://f13h.mine.nu/sat/tv721
-五星体育,http://223.109.210.49/mmst.v.smtcdns.net/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+CBA经典,http://120.77.28.4:8648/mgu.php?id=cbajd
+NBA经典,http://120.77.28.4:8648/mgu.php?id=nbajd
+UFC格斗精选,http://120.77.28.4:8648/mgu.php?id=ufcgdjx
+五大联赛经典,http://120.77.28.4:8648/mgu.php?id=wdlsjd
+CCTV-央视台球,http://xuys.top:8888/udp/225.1.2.170:5002
+武术世界,http://xuys.top:8888/udp/225.1.2.129:5002
+风云足球,http://111.170.104.155:9999/udp/239.69.1.81:10126
+BILLIARD TV 台球,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+智林体育台,https://litv.zapi.us.kg/?id=4gtv-4gtv101
+台湾体育1,rtmp://60.248.77.83/sat/md011
+台湾体育2,rtmp://60.248.77.83/sat/md051
+台湾体育3,rtmp://60.248.77.83/sat/md021
+台湾体育4,rtmp://60.248.77.83/sat/md041
+台湾体育5,rtmp://60.248.77.83/sat/md031
+ELEVEN1,rtmp://60.248.77.83/sat/tv731
+ELEVEN2,rtmp://60.248.77.83/sat/tv741
+MoMo综合,rtmp://60.248.77.83/sat/tv761
+CCTV-高尔夫网球,http://xuys.top:8888/udp/225.1.2.169:5002
+CCTV5+-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.18:4056
+CCTV5+[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.101:4056
+CCTV5-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.6:4056
+CCTV5体育[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.133:4056
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+美国摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT
 五星体育,http://[2409:8087:5e08:24::14]:6610/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3&HlsProfileId=
@@ -21,6 +44,249 @@ CCTV+5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 美国摔角,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 🎬电影频道👉全网,#genre#
+外星+人2,https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
+外星+人2,https://v.cdnlz12.com/20240215/11573_4cb789fb/index.m3u8
+外星+人2,https://yzzy1.play-cdn1.com/20240215/16550_5cc27412/2000k/hls/index.m3u8
+外星+人2,https://yzzy1.play-cdn1.com/20240215/16550_5cc27412/index.m3u8
+破战,https://yzzy1.play-cdn20.com/20240216/17014_96791511/2000k/hls/mixed.m3u8
+破战,https://yzzy1.play-cdn20.com/20240216/17014_96791511/index.m3u8
+破战,https://ukzy.ukubf3.com/20240216/MYLiIuPk/2000kb/hls/index.m3u8
+破战,https://ukzy.ukubf3.com/20240216/MYLiIuPk/index.m3u8
+史上最强弟子,ttps://yzzy.play-cdn19.com/20240209/19332_06c6451f/2000k/hls/index.m3u8
+史上最强弟子,https://yzzy.play-cdn19.com/20240209/19332_06c6451f/index.m3u8
+史上最强弟子,https://ukzy.ukubf3.com/20240209/KTa9CSlE/2000kb/hls/index.m3u8
+史上最强弟子,https://ukzy.ukubf3.com/20240209/KTa9CSlE/index.m3u8
+长津湖,https://cdn2.yzzy-online.com/20220325/1969_ba918397/1000k/hls/index.m3u8
+长津湖,https://cdn2.yzzy-online.com/20220325/1969_ba918397/index.m3u8
+长津湖之水门桥,https://vip.ffzy-play7.com/20221125/7026_1ecb0db7/2000k/hls/mixed.m3u8
+长津湖之水门桥,https://vip.ffzy-play7.com/20221125/7026_1ecb0db7/index.m3u8
+长津湖之水门桥,https://cdn17.yzzy-online.com/20230817/16230_2dbddb92/2000k/hls/index.m3u8
+长津湖之水门桥,https://cdn17.yzzy-online.com/20230817/16230_2dbddb92/index.m3u8
+四平警事之钻石大劫案,https://v.cdnlz2.com/20240206/28771_69d6e63e/2000k/hls/mixed.m3u8
+四平警事之钻石大劫案,https://v.cdnlz2.com/20240206/28771_69d6e63e/index.m3u8
+四平警事之钻石大劫案,https://yzzy1.play-cdn1.com/20240206/15420_24829180/2000k/hls/index.m3u8
+四平警事之钻石大劫案,https://yzzy1.play-cdn1.com/20240206/15420_24829180/index.m3u8
+露梁海战,https://v.cdnlz19.com/20240205/13018_c311202b/2000k/hls/mixed.m3u8
+露梁海战,https://v.cdnlz19.com/20240205/13018_c311202b/index.m3u8
+露梁海战,https://yzzy.play-cdn19.com/20240204/19039_8fc68bf4/2000k/hls/index.m3u8
+露梁海战,https://yzzy.play-cdn19.com/20240204/19039_8fc68bf4/index.m3u8
+黑白潜行,https://vip.ffzy-online6.com/20240204/25747_fb206ff2/2000k/hls/index.m3u8
+黑白潜行,https://vip.ffzy-online6.com/20240204/25747_fb206ff2/index.m3u8
+黑白潜行,https://cdn.zui.cm:2022/api/e45913dc80d0875abdd520380d62ded8.m3u8?token=e5bdd6QPSkTtmkL/y52H8+IWCfVA9vIMZ1lyd1tevVW2kVumc306SzH4oE&svip.m3u8
+三大队,https://v.cdnlz2.com/20240201/28578_1ad90f25/2000k/hls/mixed.m3u8
+三大队,https://v.cdnlz2.com/20240201/28578_1ad90f25/index.m3u8https://yzzy1.play-cdn1.com/20240201/14983_647c895f/2000k/hls/index.m3u8
+三大队,https://yzzy1.play-cdn1.com/20240201/14983_647c895f/index.m3u8
+三大队,https://wsv.cdp.qq.com/10002-nkvlog_0bc3byabwaaaaiaceev4yrsvcdwddmhaag2a.f0.mp4?dis_k=a95c28c5ef592eeea4b2d50d85ccf271&dis_t=1706870516
+我本是高山,https://v.cdnlz12.com/20240128/11176_b475b264/2000k/hls/mixed.m3u8
+我本是高山,https://v.cdnlz12.com/20240128/11176_b475b264/index.m3u8
+我本是高山,https://yzzy.play-cdn19.com/20240128/18148_dae2c53f/2000k/hls/index.m3u8
+我本是高山,https://yzzy.play-cdn19.com/20240128/18148_dae2c53f/index.m3u8
+长白山猎人传说,https://vip.ffzy-online6.com/20240130/25459_dbbc3359/2000k/hls/index.m3u8
+长白山猎人传说,https://vip.ffzy-online6.com/20240130/25459_dbbc3359/index.m3u8
+猛虎3,https://hnzy.bfvvs.com/play/Pdy4pmzb/index.m3u8
+猛虎3,https://ukzy.ukubf3.com/20240129/vM7JF1MM/2000kb/hls/index.m3u8
+猛虎3,https://ukzy.ukubf3.com/20240129/vM7JF1MM/index.m3u8
+无法治愈,https://vip.lz-cdn3.com/20220624/8306_5b24c626/1000k/hls/mixed.m3u8
+无法治愈,https://vip.lz-cdn3.com/20220624/8306_5b24c626/index.m3u8
+无法治愈,https://s1.1080pzy.co/20210726/O8yBS59X/1200kb/hls/index.m3u8
+无法治愈,https://s1.1080pzy.co/20210726/O8yBS59X/index.m3u8
+养蜂人抢先,https://www.yzzy.play-cdn20.com/20240130/14212_512dac09/2000k/hls/index.m3u8
+养蜂人抢先,https://www.yzzy.play-cdn20.com/20240130/14212_512dac09/index.m3u8
+养蜂人抢先,https://hnzy.bfvvs.com/play/YerGgp2a/index.m3u8
+养蜂人抢先,https://s.xlzys.com/play/DdwNnxrb/index.m3u8
+孤注一掷,https://v.cdnlz12.com/20240131/11213_0006f281/2000k/hls/mixed.m3u8
+孤注一掷,https://v.cdnlz12.com/20240131/11213_0006f281/index.m3u8
+孤注一掷,https://yzzy.play-cdn19.com/20240131/18306_ab283c7e/2000k/hls/index.m3u8
+孤注一掷,https://yzzy.play-cdn19.com/20240131/18306_ab283c7e/index.m3u8
+大冒险王之金丝玉盘,https://hnzy.bfvvs.com/play/YerGjXpa/index.m3u8
+爆裂点,https://v.cdnlz3.com/20240126/22924_311317eb/2000k/hls/mixed.m3u8
+爆裂点,https://v.cdnlz3.com/20240126/22924_311317eb/index.m3u8
+爆裂点,https://www.yzzy.play-cdn1.com/20240126/13880_50457047/2000k/hls/index.m3u8
+爆裂点,https://www.yzzy.play-cdn1.com/20240126/13880_50457047/index.m3u8
+爆裂点,https://v.cdnlz3.com/20240126/22925_ab576153/2000k/hls/mixed.m3u8
+爆裂点,https://v.cdnlz3.com/20240126/22925_ab576153/index.m3u8
+爆裂点,https://www.yzzy.play-cdn1.com/20240126/13879_afddaffc/index.m3u8
+荒野,https://v.cdnlz2.com/20240126/28294_cdfab943/2000k/hls/mixed.m3u8
+荒野,https://v.cdnlz2.com/20240126/28294_cdfab943/index.m3u8
+荒野,https://www.yzzy.play-cdn20.com/20240126/14004_38253457/2000k/hls/index.m3u8
+荒野,https://www.yzzy.play-cdn20.com/20240126/14004_38253457/index.m3u8
+荒野,https://ukzy.ukubf3.com/20240127/xBIprq8r/2000kb/hls/index.m3u8
+荒野,https://ukzy.ukubf3.com/20240127/xBIprq8r/index.m3u8
+挡马夺刀,https://www.yzzy.play-cdn20.com/20240125/13928_02451c32/2000k/hls/index.m3u8
+挡马夺刀,https://www.yzzy.play-cdn20.com/20240125/13928_02451c32/index.m3u8
+挡马夺刀,https://v.cdnlz12.com/20240125/11103_1f417be0/2000k/hls/mixed.m3u8
+挡马夺刀,https://v.cdnlz12.com/20240125/11103_1f417be0/index.m3u8
+速度与激情10,https://vip.lz-cdn3.com/20230609/19446_bd6c3340/2000k/hls/mixed.m3u8
+速度与激情10,https://vip.lz-cdn3.com/20230609/19446_bd6c3340/index.m3u8
+速度与激情10,https://vip15.play-cdn15.com/20230610/15338_08b48b5a/2000k/hls/index.m3u8
+速度与激情10,https://vip15.play-cdn15.com/20230610/15338_08b48b5a/index.m3u8
+再见.李可乐,https://cdn.zui.cm:2022/api/e862e812eeaf3a8e6b53a1e710b0feab.m3u8?token=d8223HYBzI3fgE1W/aQW6IS+qn59vEErFykC1qZTtift+26IIxmEWsx5frvM&svip.m3u8
+再见.李可乐,https://v.cdnlz12.com/20240124/11081_e095c299/2000k/hls/mixed.m3u8
+再见.李可乐,https://ukzy.ukubf3.com/20240124/UNDfBIj7/2000kb/hls/index.m3u8
+海王2.失落的王国,https://v.cdnlz12.com/20240123/11056_97ad71a3/2000k/hls/mixed.m3u8
+海王2.失落的王国,https://yzzy.play-cdn1.com/20240123/12780_00372d63/2000k/hls/index.m3u8
+涉过愤怒的海,https://free-adsmind.ugdtimg.com/10002-ugc_0b53iqagyaaasuagp75bjnsvcrgdnrcaa3ca.f0.mp4?dis_k=92293ff7ad61b77add6ce244e5202848&dis_t=1705903789
+涉过愤怒的海,https://cdn.zui.cm:2022/api/5edadf452720857082375a0af568a21b.m3u8?token=816d+YeIwN697zVLGGUCNvEPSm2nab6/uuuspLsRQzADGluvYQX5QLDWsU&svip.m3u8
+涉过愤怒的海,https://v.cdnlz3.com/20240112/22740_9e90a3db/2000k/hls/mixed.m3u8
+涉过愤怒的海,https://yzzy.play-cdn19.com/20240112/14113_6e4c05f7/2000k/hls/index.m3u8
+一击2.城市混战,https://cdn1.vip-vip-yzzy.com/20240112/11718_c34d3123/2000k/hls/index.m3u8
+刀尖,https://v.cdnlz12.com/20240117/11012_3f5cf514/2000k/hls/mixed.m3u8
+刀尖,https://yzzy.play-cdn20.com/20240117/13531_6cc9c36a/2000k/hls/index.m3u8
+志愿军：雄兵出击,https://dghls.mcloud.139.com/hls/L1c36c04a53255f72579c1f62fe2ad8e1b/single/video/0/376/index.m3u8
+志愿军：雄兵出击,https://v.cdnlz4.com/20231201/26186_1cd3ed6c/2000k/hls/mixed.m3u8
+志愿军：雄兵出击,https://yzzy.play-cdn20.com/20231201/6580_7c49d136/2000k/hls/index.m3u8
+毒液2,https://vip.lzcdn2.com/20220530/7945_ffa14188/1200k/hls/mixed.m3u8
+毒液2,https://yzzy.play-cdn8.com/20220708/2489_c4728ab6/1000k/hls/index.m3u8
+毒液2,https://s2.fsvod1.com/20220305/eXFzqkhW/1200kb/hls/index.m3u8
+西装暴徒,https://v.cdnlz3.com/20240118/22835_82f61c7e/2000k/hls/mixed.m3u8
+西装暴徒,https://yzzy.play-cdn20.com/20240118/13576_83d3b94b/2000k/hls/index.m3u8
+开国将帅授衔1955,https://cdn1.vip-vip-yzzy.com/20240113/12061_d95d9068/2000k/hls/index.m3u8
+开国将帅授衔1955,https://v.cdnlz3.com/20240113/22760_c4dff67b/2000k/hls/mixed.m3u8
+开国将帅授衔1955,https://apd-vlive.apdcdn.tc.qq.com/defaultts.tc.qq.com/EtEwKFzaCElb0GFmjYMzOKlyWZjrCJlk446j_vBtjoHgPKQNW9H7bDg6-OXT-wkeq_rOjsd9NMz_oH06o0TBXnVsorrmnUgZa0PlxZBpdFKgBPDuI4AkPkQBNhWluFnB7QIsEWdAnlTXf7B2lvLVD0UHu_2Y8WYuDwj9j3v01eRYOUCwdsuNZ6XtCf2d84ww/gzc_1000102_0b53hyag2aaaj4anrbfbjjs4apwdnuzaa2ka.f321004.ts.m3u8?ver=4
+开国将帅授衔1955,https://cdn1.vip-vip-yzzy.com/20240116/12228_9f597d72/2000k/hls/index.m3u8
+粽邪3.鬼门开,https://ukzy.ukubf3.com/20231219/XiwVy98L/2000kb/hls/index.m3u8
+偷破天际线,https://v.cdnlz3.com/20240112/22742_a3617856/2000k/hls/mixed.m3u8
+偷破天际线,https://yzzy.play-cdn19.com/20240112/14114_ad4671ca/2000k/hls/index.m3u8
+偷破天际线,https://ukzy.ukubf3.com/20240112/I7zKgY35/2000kb/hls/index.m3u8
+怪物,https://v.cdnlz3.com/20240106/22647_12bced2d/2000k/hls/index.m3u8
+怪物,https://cdn1.vip-vip-yzzy.com/20240106/11256_9756f6a0/2000k/hls/index.m3u8
+月球叛军：火之女,https://v.cdnlz11.com/20231222/18799_a3ec4c15/2000k/hls/mixed.m3u8
+封神雷震子,https://cdn1.vip-vip-yzzy.com/20240114/12082_0f03fc79/2000k/hls/index.m3u8
+封神雷震子,https://hnzy.bfvvs.com/play/BeXGPpAd/index.m3u8
+午夜场,https://yzzy.play-cdn1.com/20240121/12675_d3269c59/2000k/hls/index.m3u8
+午夜场,https://v.cdnlz3.com/20240121/22881_bd9ef284/2000k/hls/mixed.m3u8
+无间毒票,https://yzzy.play-cdn20.com/20240113/12137_c54910fc/2000k/hls/index.m3u8
+无间毒票,https://v.cdnlz3.com/20240113/22757_e3c0e0dd/2000k/hls/mixed.m3u8
+冰雪大围捕,https://yzzy.play-cdn20.com/20240110/11523_f64c637a/2000k/hls/index.m3u8
+冰雪大围捕,https://ukzy.ukubf3.com/20240110/27trRbwZ/2000kb/hls/index.m3u8?skipl=1
+画江湖之不良帅,https://v.cdnlz11.com/20240111/19241_3af8d963/2000k/hls/mixed.m3u8
+画江湖之不良帅,https://yzzy.play-cdn19.com/20240111/14038_41e76878/2000k/hls/index.m3u8
+追缉,https://v.cdnlz3.com/20231231/22557_d6b334ec/2000k/hls/mixed.m3u8
+追缉,https://yzzy.play-cdn20.com/20231231/10506_3814a4ec/2000k/hls/index.m3u8
+兄弟.请注意,https://cdn1.vip-vip-yzzy.com/20231231/10856_e535c1ff/2000k/hls/index.m3u8
+兄弟.请注意,https://v.cdnlz3.com/20240101/22575_1b166c56/2000k/hls/mixed.m3u8
+热搜,https://cdn1.vip-vip-yzzy.com/20231231/10876_6574bbf1/2000k/hls/index.m3u8
+热搜,https://v.cdnlz3.com/20240101/22567_16d0ffe7/2000k/hls/mixed.m3u8
+花漾牌手,https://yzzy.play-cdn20.com/20231231/10505_bde166b6/2000k/hls/index.m3u8
+花漾牌手,https://v.cdnlz3.com/20240101/22574_570892df/2000k/hls/mixed.m3u8
+无价之宝,https://cdn1.vip-vip-yzzy.com/20231228/10597_1384c055/2000k/hls/index.m3u8
+无价之宝,https://v.cdnlz4.com/20231228/26306_495c1c15/2000k/hls/mixed.m3u8
+黑金古殿,https://v.cdnlz2.com/20231228/27703_1740f3a5/2000k/hls/mixed.m3u8
+黑金古殿,https://dghls.mcloud.139.com/hls/LF47b9dc0900c4d12a99b47555f0867888/single/video/0/480/index.m3u8
+我是船长,https://v.cdnlz11.com/20231222/18805_404b5117/2000k/hls/mixed.m3u8
+我是船长,https://yzzy.play-cdn19.com/20231224/10993_7641435a/2000k/hls/index.m3u8
+千鹤先生,https://www.yzzy.play-cdn1.com/20240125/13432_19b6c3cf/2000k/hls/index.m3u8
+千鹤先生,https://v.cdnlz12.com/20240125/11104_24ac3055/2000k/hls/mixed.m3u8
+野兽们的战争,https://v.cdnlz11.com/20231217/18739_fd0f9b07/2000k/hls/mixed.m3u8
+野兽们的战争,https://yzzy.play-cdn19.com/20231218/10674_7604b065/2000k/hls/index.m3u8
+野兽们的战争,https://ukzy.ukubf3.com/20231214/7kYLMSBS/2000kb/hls/index.m3u8
+二手杰作,https://v.cdnlz4.com/20231226/26302_f7a2357f/2000k/hls/mixed.m3u8
+二手杰作,https://yzzy.play-cdn20.com/20231226/10237_6ad70194/2000k/hls/index.m3u8
+二手杰作,https://dghls.mcloud.139.com/hls/LE1f8fff1dda74d738c801dc8b799dcb7f/single/video/0/480/index.m3u8
+二手杰作,https://wxapp.tc.qq.com/131/20210/snssvpdownload/SH/reserved/10002_bdjx_0bc3weacwaaa4ianslmlbrsvdmodfoyqak2a.f0.mp4?dis_k=c5d299f9c6f49e1a39f7fa1efed14509&dis_t=1703676389
+深渊宝藏,https://yzzy.play-cdn20.com/20231217/7867_0daa9a69/2000k/hls/index.m3u8
+普通男女,https://v.cdnlz11.com/20231215/18690_a833539f/2000k/hls/mixed.m3u8
+普通男女,https://cdn1.vip-vip-yzzy.com/20231214/9300_32d74a6d/2000k/hls/index.m3u8
+失而复得,https://yzzy.play-cdn20.com/20231205/6838_16369c31/2000k/hls/index.m3u8
+失而复得,https://yzzy.play-cdn20.com/20231205/6838_16369c31/index.m3u8
+失而复得,https://v1.cdnlz1.com/20231206/24396_131af944/index.m3u8
+失而复得,https://v1.cdnlz1.com/20231206/24396_131af944/2000k/hls/mixed.m3u8
+失而复得,https://dghls.mcloud.139.com/hls/LD9f1ec9955b14e200f050ffb995bedc76/single/video/0/480/index.m3u8
+失而复得,https://cdn.zui.cm:2022/api/a95caf62de64132380d0fc92057696ab.m3u8?token=2c52voTWfLi1gxkcqJrqIHgZYbP5b2pbkekYDbbLmbXyW1E6yYnsINwFWtHA&svip.m3u8
+拯救嫌疑人,https://v.cdnlz11.com/20231221/18790_370754ec/2000k/hls/mixed.m3u8
+拯救嫌疑人,https://free-adsmind.ugdtimg.com/10002-ugc_0b53zaaaaaaaziafmsufh5svdsgdadeaaaca.f0.mp4?dis_k=92293ff7ad61b77add6ce244e5202848&dis_t=1705903789
+拯救嫌疑人,https://v.cdnlz11.com/20231221/18790_370754ec/index.m3u8https://cdn1.vip-vip-yzzy.com/20231221/10044_e490a6fd/2000k/hls/index.m3u8
+拯救嫌疑人,https://cdn1.vip-vip-yzzy.com/20231221/10044_e490a6fd/index.m3u8
+我爸没说的那件事,https://dghls.mcloud.139.com/hls/LF68795969fea240236a03c69349af2fbd/single/video/0/480/index.m3u8
+我爸没说的那件事,https://dghls.mcloud.139.com/hls/LF68795969fea240236a03c69349af2fbd/playlist.m3u8?ci=0Z11fuB2z1Qp07020231220184128s2c&fileSize=391006742&usersiteid=usersite-s
+我爸没说的那件事,https://v.cdnlz3.com/20231220/22387_e2ad567e/2000k/hls/mixed.m3u8
+我爸没说的那件事,https://v.cdnlz3.com/20231220/22387_e2ad567e/index.m3u8
+斗破苍穹·止戈,https://dghls.mcloud.139.com/hls/LP8a5a7d8f071b60cbe031eada5888a06a/single/video/0/480/index.m3u8
+斗破苍穹·止戈,https://dghls.mcloud.139.com/hls/LP8a5a7d8f071b60cbe031eada5888a06a/playlist.m3u8?ci=0Z11fuB2z1Qp03420231221131543bmk&fileSize=425980529&usersiteid=usersite-s
+斗破苍穹·止戈,https://yzzy.play-cdn19.com/20231221/10746_4d7aa10f/2000k/hls/index.m3u8
+斗破苍穹·止戈,https://yzzy.play-cdn19.com/20231221/10746_4d7aa10f/index.m3u8
+斗破苍穹·止戈,https://v.cdnlz4.com/20231221/26255_0c98014d/2000k/hls/mixed.m3u8
+斗破苍穹·止戈,https://v.cdnlz4.com/20231221/26255_0c98014d/index.m3u8
+看不见的朋友,https://yzzy.play-cdn16.com/20231218/27724_b3194d5c/2000k/hls/index.m3u8
+看不见的朋友,https://yzzy.play-cdn16.com/20231218/27724_b3194d5c/index.m3u8
+酿魂,https://yzzy.play-cdn19.com/20231216/10632_eefb1a73/2000k/hls/index.m3u8
+酿魂,https://yzzy.play-cdn20.com/20231216/7862_c08ac2ec/2000k/hls/index.m3u8
+酿魂,https://yzzy.play-cdn20.com/20231216/7862_c08ac2ec/index.m3u8
+一个和四个,https://v.cdnlz11.com/20231212/18661_66bd13d1/2000k/hls/mixed.m3u8
+一个和四个,https://v.cdnlz11.com/20231212/18661_66bd13d1/index.m3u8
+一个和四个,https://yzzy.play-cdn20.com/20231211/7354_2a64b0ea/2000k/hls/index.m3u8
+一个和四个,https://yzzy.play-cdn20.com/20231211/7354_2a64b0ea/index.m3u8
+不日成婚2,https://yzzy.play-cdn19.com/20231214/10520_b17d82c4/2000k/hls/index.m3u8
+不日成婚2,https://yzzy.play-cdn19.com/20231214/10520_b17d82c4/index.m3u8
+不日成婚2,https://yzzy.play-cdn16.com/20231214/27666_88883562/2000k/hls/index.m3u8
+不日成婚2,https://yzzy.play-cdn16.com/20231214/27666_88883562/index.m3u8
+好像也没那么热血沸腾,https://yzzy.play-cdn16.com/20231213/27660_19c61f1e/2000k/hls/index.m3u8
+好像也没那么热血沸腾,https://yzzy.play-cdn16.com/20231213/27660_19c61f1e/index.m3u8
+好像也没那么热血沸腾,https://ukzy.ukubf3.com/20231213/tX9zsLYF/2000kb/hls/index.m3u8
+好像也没那么热血沸腾,https://ukzy.ukubf3.com/20231213/tX9zsLYF/index.m3u8
+好像也没那么热血沸腾,https://cdn.zui.cm:2022/api/2d039eb57d8088801ad097452c652208.m3u8?token=d867pRYmJpfdp9rPbqlb6XhbtcoViI6y4y/+msF5XLsBBi1RnGl59u7n3dJd&svip.m3u8
+惊奇队长2,https://v1.cdnlz1.com/20231208/24476_e5cafe33/2000k/hls/mixed.m3u8
+惊奇队长2,https://v1.cdnlz1.com/20231208/24476_e5cafe33/index.m3u8
+惊奇队长2,https://yzzy.play-cdn19.com/20231208/10376_aafc661c/2000k/hls/index.m3u8
+惊奇队长2,https://yzzy.play-cdn19.com/20231208/10376_aafc661c/index.m3u8
+前任4.英年早婚,https://ukzy.ukubf3.com/20231207/2i7LidCb/2000kb/hls/index.m3u8
+前任4.英年早婚,https://ukzy.ukubf3.com/20231207/2i7LidCb/index.m3u8
+前任4.英年早婚,https://yzzy.play-cdn20.com/20231207/6949_69130c4e/2000k/hls/index.m3u8
+前任4.英年早婚,https://yzzy.play-cdn20.com/20231207/6949_69130c4e/index.m3u8
+花月杀手,https://v.cdnlz11.com/20231205/18551_89e829c8/2000k/hls/mixed.m3u8
+花月杀手,https://yzzy.play-cdn19.com/20231205/10092_949ba333/2000k/hls/index.m3u8
+花月杀手,https://yzzy.play-cdn19.com/20231205/10092_949ba333/index.m3u8
+纸新娘,https://dghls.mcloud.139.com/hls/LE02f288c0348f4918358f4112d895ebf6/single/video/0/480/index.m3u8
+纸新娘,https://dghls.mcloud.139.com/hls/LE02f288c0348f4918358f4112d895ebf6/playlist.m3u8?ci=0Z11fuB2z1Qp03320231206185642c4n&fileSize=302394638&usersiteid=usersite-s
+纸新娘,https://v.cdnlz11.com/20231203/18522_36fc5a46/2000k/hls/mixed.m3u8
+纸新娘,https://v.cdnlz11.com/20231203/18522_36fc5a46/index.m3u8
+纸新娘,https://yzzy.play-cdn20.com/20231202/6626_797a23f3/2000k/hls/index.m3u8
+纸新娘,https://yzzy.play-cdn20.com/20231202/6626_797a23f3/index.m3u8
+九鼎记之禹皇宝藏,https://dghls.mcloud.139.com/hls/L1c071f62d422fd4a58a443ee96422bfe1/single/video/0/376/index.m3u8
+九鼎记之禹皇宝藏,https://dghls.mcloud.139.com/hls/L1c071f62d422fd4a58a443ee96422bfe1/playlist.m3u8?ci=0c11fqqqE0tb06920231203190526sys&fileSize=306966421&usersiteid=usersite-s
+九鼎记之禹皇宝藏,https://v.cdnlz4.com/20231203/26188_baf16b28/2000k/hls/mixed.m3u8
+九鼎记之禹皇宝藏,https://v.cdnlz4.com/20231203/26188_baf16b28/index.m3u8
+九鼎记之禹皇宝藏,https://yzzy.play-cdn20.com/20231203/6691_f7de2b8b/2000k/hls/index.m3u8
+九鼎记之禹皇宝藏,https://yzzy.play-cdn20.com/20231203/6691_f7de2b8b/index.m3u8
+93国际列车大劫案.莫斯科行动,https://vip.ffzy-online6.com/20231124/22000_602d5114/2000k/hls/index.m3u8
+93国际列车大劫案.莫斯科行动,https://vip.ffzy-online6.com/20231124/22000_602d5114/index.m3u8
+93国际列车大劫案.莫斯科行动,https://v1.cdnlz1.com/20231123/24109_45c19438/2000k/hls/mixed.m3u8
+93国际列车大劫案.莫斯科行动,https://v1.cdnlz1.com/20231123/24109_45c19438/index.m3u8
+93国际列车大劫案.莫斯科行动,https://yzzy.play-cdn20.com/20231123/5847_5c6b4491/2000k/hls/index.m3u8
+93国际列车大劫案.莫斯科行动,https://yzzy.play-cdn20.com/20231123/5847_5c6b4491/index.m3u8
+夺命狙击1,https://yzzy.play-cdn4.com/20220530/14486_2c6a8ca0/1000k/hls/index.m3u8
+夺命狙击1,https://yzzy.play-cdn4.com/20220530/14486_2c6a8ca0/index.m3u8
+夺命狙击1,https://ukzy.ukubf4.com/20220413/ELkIWyUX/2000kb/hls/index.m3u8
+夺命狙击1,https://ukzy.ukubf4.com/20220413/ELkIWyUX/index.m3u8
+夺命狙击2,https://yzzy.play-cdn17.com/20230731/14065_3a0e94f1/2000k/hls/index.m3u8
+夺命狙击2,https://yzzy.play-cdn17.com/20230731/14065_3a0e94f1/index.m3u8
+夺命狙击2,https://ukzy.ukubf4.com/20220413/MahavVwB/2000kb/hls/index.m3u8
+夺命狙击2,https://ukzy.ukubf4.com/20220413/MahavVwB/index.m3u8
+夺命狙击3,https://v1.cdnlz1.com/20231122/24051_a993297a/2000k/hls/mixed.m3u8
+夺命狙击3,https://v1.cdnlz1.com/20231122/24051_a993297a/index.m3u8https://cdn1.vip-vip-yzzy.com/20231122/6358_886aa556/2000k/hls/index.m3u8
+夺命狙击3,https://cdn1.vip-vip-yzzy.com/20231122/6358_886aa556/index.m3u8
+劫数难逃,https://yzzy.play-cdn19.com/20231118/8244_fbb3f5f7/2000k/hls/index.m3u8
+劫数难逃,https://yzzy.play-cdn19.com/20231118/8244_fbb3f5f7/index.m3u8
+劫数难逃,https://yzzy.play-cdn19.com/20231118/8245_b0ec1e4f/2000k/hls/index.m3u8
+劫数难逃,https://yzzy.play-cdn19.com/20231118/8245_b0ec1e4f/index.m3u8
+劫数难逃,https://v.cdnlz2.com/20231118/26666_822637f3/2000k/hls/mixed.m3u8
+劫数难逃,https://free-adsmind.ugdtimg.com/10002-ugc_0b535yabuaaanuagrl2yqvszl3wddlxaagsa.f0.mp4?dis_k=92293ff7ad61b77add6ce244e5202848&dis_t=1705903789
+绝保镖,https://v.cdnlz2.com/20231119/26830_9465d0ce/2000k/hls/mixed.m3u8
+绝保镖,https://v.cdnlz2.com/20231119/26830_9465d0ce/index.m3u8
+绝保镖,https://cdn1.vip-vip-yzzy.com/20231119/6116_18a54c9d/2000k/hls/index.m3u8
+绝保镖,https://cdn1.vip-vip-yzzy.com/20231119/6116_18a54c9d/index.m3u8
+斗破苍穹·觉醒,https://v.cdnlz4.com/20231117/26155_f980682a/2000k/hls/mixed.m3u8
+斗破苍穹·觉醒,https://yzzy.play-cdn20.com/20231117/5348_8e493d47/2000k/hls/index.m3u8
+斗破苍穹·觉醒,https://yzzy.play-cdn20.com/20231117/5348_8e493d47/index.m3u8
+毒战2,https://v.cdnlz4.com/20231117/26156_c60ebe89/2000k/hls/mixed.m3u8
+毒战2,https://v.cdnlz4.com/20231117/26156_c60ebe89/index.m3u8
+毒战2,https://yzzy.play-cdn20.com/20231117/5376_401ac72a/2000k/hls/index.m3u8
+毒战2,https://yzzy.play-cdn20.com/20231117/5376_401ac72a/index.m3u8
+黄金七令之罗刹风云,https://dghls.mcloud.139.com/hls/LR1bdcfc4ad88eb9f4e79aef310d9bcc6d/single/video/0/376/index.m3u8
+黄金七令之罗刹风云,https://v.cdnlz11.com/20231115/18327_c75a359f/2000k/hls/mixed.m3u8
+黄金七令之罗刹风云,https://v.cdnlz11.com/20231115/18327_c75a359f/index.m3u8
+黄金七令之罗刹风云,https://yzzy.play-cdn20.com/20231115/5218_93b748ea/2000k/hls/index.m3u8
+黄金七令之罗刹风云,https://yzzy.play-cdn20.com/20231115/5218_93b748ea/index.m3u8，
 周处除三害HD,https://vdn6.vzuu.com/FHD/683acd86-d92b-11ee-8e89-e612311e17dc-v8_f2_t1_lt47s5CP.mp4?pkey=AAXMfeKoB_fI1KmFPSQciIKPe77iiWVFBSkH3k2LwDBub89_yCkopNRYmr8_-Nl3pWa8fMB5TdeH9aGluG8GHg7R&c=avc.8.0&f=mp4&pu=1513c7c2&bu=1513c7c2&expiration=1710262506&v=ks6?pp=ChMxNDAxNjIzODY1NzM5NTc5MzkyGGMiC2ZlZWRfY2hvaWNlMhMxMzY5MDA1NjA4NTk5OTA0MjU3PXu830Q=
 第二十条TH,https://vip.ffzy-play2.com/20240215/59562_169d8bd2/2000k/hls/mixed.m3u8
 热辣滚烫TH,https://ikcdn01.ikzybf.com/20240213/qeySwP3F/2000kb/hls/index.m3u8
@@ -2616,24 +2882,11 @@ Mai大叔,https://www.goodiptv.club/huya/12359302
 心动--Umi菜宝,https://www.goodiptv.club/huya/25154601
 斗鱼,#genre#
 伊太刀刀,http://159.75.85.63:35455/douyu/747764 
-鱼小丸梓,http://159.75.85.63:35455/douyu/6140589
 译制片,http://159.75.85.63:35455/douyu/2436390
-万合出品,http://159.75.85.63:35455/douyu/9220456
-蒲蚂蚱,http://159.75.85.63:35455/douyu/6079455
-OneGuy丶,http://159.75.85.63:35455/douyu/9734098
-Dy狗大帅,http://159.75.85.63:35455/douyu/3321215
-UU娇哒哒呀,http://159.75.85.63:35455/douyu/96577
-电影迷小雅,http://159.75.85.63:35455/douyu/9639225
-喜剧,http://159.75.85.63:35455/douyu/6369954
-萌小鬼,http://159.75.85.63:35455/douyu/3928
-发条张的电影最TOP,http://159.75.85.63:35455/douyu/2164691
-Rainsunn,http://159.75.85.63:35455/douyu/323876
-自在仙丶望月者,http://159.75.85.63:35455/douyu/11543347
-灬魔丶力灬,http://159.75.85.63:35455/douyu/11578014
-丨灬释怀灬丨,http://159.75.85.63:35455/douyu/11391949
 欢乐剧场,http://159.75.85.63:35455/douyu/7489563
 吃米滴虫,http://159.75.85.63:35455/douyu/315457
 冰冰经典,http://159.75.85.63:35455/douyu/74374
+小友电影,http://zzy789.xyz/douyu1.php?id=96577
 林正英,http://159.75.85.63:35455/douyu/218859
 星爷影院,http://159.75.85.63:35455/douyu/508118
 凌儿影院,http://159.75.85.63:35455/douyu/1377142
@@ -2660,7 +2913,7 @@ Rainsunn,http://159.75.85.63:35455/douyu/323876
 女神电影,http://159.75.85.63:35455/douyu/747764
 华语经典,http://159.75.85.63:35455/douyu/434971
 避风影院,http://159.75.85.63:35455/douyu/9826611
-欧美大片,http://zzy789.xyz/douyu1.php?id=2793084
+欧美大片,http://zzy789.xyz/douyu1.php?id=96577
 贝爷max,http://zzy789.xyz/douyu1.php?id=4332
 贝爷影厅,http://zzy789.xyz/douyu1.php?id=252802
 国产喜剧,http://zzy789.xyz/douyu1.php?id=5423，
@@ -2669,6 +2922,19 @@ Rainsunn,http://159.75.85.63:35455/douyu/323876
 邵氏影院@代,http://zzy789.xyz/douyu1.php?id=4246519
 科幻FANS,http://zzy789.xyz/douyu1.php?id=3508304
 特辑影院,http://zzy789.xyz/douyu1.php?id=3637778 
+万合出品,http://159.75.85.63:35455/douyu/9220456
+蒲蚂蚱,http://159.75.85.63:35455/douyu/6079455
+OneGuy丶,http://159.75.85.63:35455/douyu/9734098
+Dy狗大帅,http://159.75.85.63:35455/douyu/3321215
+UU娇哒哒呀,http://159.75.85.63:35455/douyu/96577
+电影迷小雅,http://159.75.85.63:35455/douyu/9639225
+喜剧,http://159.75.85.63:35455/douyu/6369954
+萌小鬼,http://159.75.85.63:35455/douyu/3928
+发条张的电影最TOP,http://159.75.85.63:35455/douyu/2164691
+Rainsunn,http://159.75.85.63:35455/douyu/323876
+自在仙丶望月者,http://159.75.85.63:35455/douyu/11543347
+灬魔丶力灬,http://159.75.85.63:35455/douyu/11578014
+丨灬释怀灬丨,http://159.75.85.63:35455/douyu/11391949
 gtfobae666,http://zzy789.xyz/douyu1.php?id=3337730
 晓晓666666,http://zzy789.xyz/douyu1.php?id=426517
 开心嘴炮,http://zzy789.xyz/douyu1.php?id=9026377
@@ -2703,7 +2969,6 @@ sweet夏有甜,http://zzy789.xyz/douyu1.php?id=4808115
 老王陪你看电视,http://zzy789.xyz/douyu1.php?id=7476264
 师落,http://zzy789.xyz/douyu1.php?id=6911044
 楚汉炒果条丶,http://zzy789.xyz/douyu1.php?id=6785471
-一只究极蓝霸虎,http://zzy789.xyz/douyu1.php?id=8770422
 我砸晕了牛顿奥,http://zzy789.xyz/douyu1.php?id=1218414
 小姐姐不记得,http://zzy789.xyz/douyu1.php?id=3700024
 魔术师丶西索,http://zzy789.xyz/douyu1.php?id=6610883
@@ -2831,10 +3096,12 @@ Starshine刹那,http://zzy789.xyz/douyu1.php?id=9191006
 甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
 老友记,http://159.75.85.63:35455/huya/26355834 
 破产姐妹,http://159.75.85.63:35455/huya/21059564
+冰与火之歌 ,http://zzy789.xyz/douyu1.php?id=8945323
 神探夏洛克,http://159.75.85.63:35455/huya/26355792
 风骚律师,http://159.75.85.63:35455/huya/26355836
 老爸老妈浪漫史,http://159.75.85.63:35455/huya/26355853
 生活大爆炸,http://159.75.85.63:35455/douyu/6668627
+我是大哥大,http://159.75.85.63:35455/huya/23652317
 越狱,http://159.75.85.63:35455/douyu/7575350
 美剧,http://159.75.85.63:35455/huya/11342438
 超级英雄,http://159.75.85.63:35455/huya/29982666
@@ -2852,9 +3119,10 @@ Starshine刹那,http://zzy789.xyz/douyu1.php?id=9191006
 龙门客栈,http://cfss.cc/cdn/hy/11352874.flv
 猎罪图鉴,http://159.75.85.63:35455/huya/11601962
 全职高手,http://159.75.85.63:35455/huya/11352901
+古龙,http://159.75.85.63:35455/huya/11342417
 将夜,http://159.75.85.63:35455/huya/11352885
 鬼吹灯全集,http://159.75.85.63:35455/huya/29768105
-鬼吹灯之精绝古城,http://159.75.85.63:35455/huya/25154601
+鬼吹灯之精绝古城,http://159.75.85.63:35455/huya/113528710
 鬼吹灯之精绝古城,http://159.75.85.63:35455/douyu/5635000 
 鬼吹灯之怒晴湘西,http://cfss.cc/cdn/hy/11602075.flv
 鬼吹灯之龙岭迷窟,http://cfss.cc/cdn/hy/29465863.flv
@@ -2880,6 +3148,11 @@ Starshine刹那,http://zzy789.xyz/douyu1.php?id=9191006
 父母爱情,http://159.75.85.63:35455/yy/1354926650
 父母爱情,http://159.75.85.63:35455/yy/1382768483
 父母爱情,http://159.75.85.63:35455/yy/1382746276
+后厨电视轮播,http://159.75.85.63:35455/yy/1351059494
+如果岁月轮播,http://159.75.85.63:35455/yy/1382736883
+流金岁月轮播,http://159.75.85.63:35455/yy/1382749906
+向风而行轮播,http://zby.xjqxz.top/xfex/live.m3u8
+警察荣誉轮播,http://zby.xjqxz.top/live16/live.m3u8
 铁齿铜牙纪晓岚,http://159.75.85.63:35455/huya/11342396
 知否知否,http://159.75.85.63:35455/yy/21881901
 正阳门下,http://159.75.85.63:35455/yy/1354931580
@@ -2930,6 +3203,7 @@ Starshine刹那,http://zzy789.xyz/douyu1.php?id=9191006
 狂飙,http://159.75.85.63:35455/yy/1508778570
 狂飙,http://159.75.85.63:35455/yy/1354790484
 狂飙,http://159.75.85.63:35455/yy/138288186
+三部僵约轮播,http://zzy789.xyz/douyu1.php?id=9470198
 法证先锋,http://159.75.85.63:35455/huya/23863804
 陀枪师姐,http://cfss.cc/cdn/hy/23860039.flv
 事侦缉档案,http://cfss.cc/cdn/hy/23734169.flv
@@ -3265,405 +3539,698 @@ YY,#genre#
 古惑仔国轮播,http://159.75.85.63:35455/yy/1458015189
 黑衣一二轮播,http://159.75.85.63:35455/yy/1354930936
 叠影重重全集,http://159.75.85.63:35455/yy/1382735570
-绝版电影 港片女鬼,http://159.75.85.63:35455/yy/1455988450 
-港片 喜剧 动作,http://159.75.85.63:35455/yy/1355480591
-经典鬼片3000部,http://159.75.85.63:35455/yy/29460894
-林正英-经典电影,http://159.75.85.63:35455/yy/34229877
-【战狼3吴京】首播,http://159.75.85.63:35455/yy/1456668939
-港片电影集,http://159.75.85.63:35455/yy/1455225203
-林正英电影,http://159.75.85.63:35455/yy/1382841203
-赵本山《蓝光版》,http://159.75.85.63:35455/yy/32160832
-英叔僵尸 3000部,http://159.75.85.63:35455/yy/1353685311
-豪哥带我们发财,http://159.75.85.63:35455/yy/23402146
-李连杰功夫 经典武侠,http://159.75.85.63:35455/yy/74613175
-(周星驰)超经典搞笑电影,http://159.75.85.63:35455/yy/29945997
-经典港片 3000部,http://159.75.85.63:35455/yy/1353059120
-【战狼3吴京】独播,http://159.75.85.63:35455/yy/37999586
-宋小宝小品合集,http://159.75.85.63:35455/yy/1354931577
-国内侦探电影大全,http://159.75.85.63:35455/yy/1354936134
-动作武侠港片电影,http://159.75.85.63:35455/yy/1459801818
-鹿鼎记-周星驰版,http://159.75.85.63:35455/yy/1354658049
-丸子,http://159.75.85.63:35455/yy/1382851588
-抗战经典,http://159.75.85.63:35455/yy/1382824983
-【战狼4】吴京老师,http://159.75.85.63:35455/yy/1354784284
-恐怖电影,http://159.75.85.63:35455/yy/24066336
-二龙湖浩哥【经典搞笑】,http://159.75.85.63:35455/yy/28205255
-电影电影,http://159.75.85.63:35455/yy/1458819360
-奇缘39262港台影院,http://159.75.85.63:35455/yy/1354889234
-新主播，求照顾,http://159.75.85.63:35455/yy/29197808
-林正英全集,http://159.75.85.63:35455/yy/1335509613
-泡芙陪你看电影,http://159.75.85.63:35455/yy/24407222
-林正英 僵尸 鬼片,http://159.75.85.63:35455/yy/1351505899
-交友林正英女鬼电影,http://159.75.85.63:35455/yy/1453996620
-港片经典电影,http://159.75.85.63:35455/yy/32326398
-林正英经典,http://159.75.85.63:35455/yy/1353312849
+举起手来-惊险抗日,http://159.75.85.63:35455/yy/1382736877
+【狂飙2老默】首播,http://159.75.85.63:35455/yy/1354790484
+武林外传,http://159.75.85.63:35455/yy/1355652820
+铁齿铜牙纪晓岚,http://159.75.85.63:35455/yy/1354143978
+绝版电影 港片女鬼,http://159.75.85.63:35455/yy/1455988450
+【鹿鼎记】金庸经典,http://159.75.85.63:35455/yy/28265277
 赵本山《超清版》,http://159.75.85.63:35455/yy/1382683959
-【成龙经典】动作,http://159.75.85.63:35455/yy/34460526
-港片赌片 3000部,http://159.75.85.63:35455/yy/1355076627
-超级吓人鬼片 恐怖片,http://159.75.85.63:35455/yy/1355641195
-港片鬼片全集,http://159.75.85.63:35455/yy/1459869766
-【港台】鬼片 惊悚 喜剧,http://159.75.85.63:35455/yy/1351030377
-战狼4 吴京首播,http://159.75.85.63:35455/yy/1354784966
-布丁-玄幻电影正在直播,http://159.75.85.63:35455/yy/1455460998
-鬼经典老片,http://159.75.85.63:35455/yy/1463783198
-鬼片恐怖私人影院,http://159.75.85.63:35455/yy/1354952229
-鬼片 恐怖片,http://159.75.85.63:35455/yy/1455891197
-你不知道的汽车冷知识,http://159.75.85.63:35455/yy/1346966327
-大家车言论,http://159.75.85.63:35455/yy/1382570702
-鬼怪恐怖惊辣,http://159.75.85.63:35455/yy/1382748585
-【赌神片 动作片 港片】,http://159.75.85.63:35455/yy/1355112116
-【林正英】僵尸 鬼片,http://159.75.85.63:35455/yy/30668277
-武侠港片电影,http://159.75.85.63:35455/yy/1451866697
-澳门风云,http://159.75.85.63:35455/yy/1459243913
-初恋脸,http://159.75.85.63:35455/yy/1382851597
-星爷经典-百看不厌,http://159.75.85.63:35455/yy/1382736808
-杭小妞,http://159.75.85.63:35455/yy/1382851590
-电影百团大战,http://159.75.85.63:35455/yy/1382736871
-贾玲春晚小品,http://159.75.85.63:35455/yy/1382736720
-颜值永远在线,http://159.75.85.63:35455/yy/1382851582
-港片 恐怖片 鬼片,http://159.75.85.63:35455/yy/1353850051
+超喜剧地下交通站男神贾贵,http://159.75.85.63:35455/yy/1353428972
+火蓝刀锋,http://159.75.85.63:35455/yy/1382737892
+偷天换月,http://159.75.85.63:35455/yy/22089862
+正阳门下,http://159.75.85.63:35455/yy/1354931580
 德爷单挑荒野,http://159.75.85.63:35455/yy/27772604
-荒野求生德爷,http://159.75.85.63:35455/yy/36949900
-电影 古惑仔全集,http://159.75.85.63:35455/yy/1354507447
-夏洛特烦恼-国内电影-喜剧,http://159.75.85.63:35455/yy/1354936201
-热血抗日电影,http://159.75.85.63:35455/yy/1382749907
-宋小宝春晚小品合集,http://159.75.85.63:35455/yy/1382736866
-震撼！国内功夫大片,http://159.75.85.63:35455/yy/1382736902
-港片电影,http://159.75.85.63:35455/yy/33897188
-华子系列,http://159.75.85.63:35455/yy/1354888726
-同桌的你,http://159.75.85.63:35455/yy/1382851477
-经典港片电影,http://159.75.85.63:35455/yy/1382793140
-古惑仔全集,http://159.75.85.63:35455/yy/1353426319
-精彩玄幻电影,http://159.75.85.63:35455/yy/1382688400
-香港经典蓝光电影,http://159.75.85.63:35455/yy/1382627144
-【经典港片】佟瑶,http://159.75.85.63:35455/yy/23531261
-2024盗幕鬼怪,http://159.75.85.63:35455/yy/1355171231
-【电影】超然巨作,http://159.75.85.63:35455/yy/29170933
-绝版鬼片电影,http://159.75.85.63:35455/yy/1382743247
-24小时陪你看,http://159.75.85.63:35455/yy/1331686180
-【电影】顶级动作电影,http://159.75.85.63:35455/yy/24923327
-开饭了大熊猫,http://159.75.85.63:35455/yy/1382741641
-盗暮惊悚妖魔,http://159.75.85.63:35455/yy/1382765507
-战狼7吴京退役,http://159.75.85.63:35455/yy/1382773714
-探案！探案！,http://159.75.85.63:35455/yy/1382829413
-【电影】超然巨作,http://159.75.85.63:35455/yy/26623173
-【没病走两步】,http://159.75.85.63:35455/yy/1382851464
-新主播，求照顾,http://159.75.85.63:35455/yy/1382690406
-彭禺厶鬼怪奇幻系列电影,http://159.75.85.63:35455/yy/1355249116
-影视剧场,http://159.75.85.63:35455/yy/1355260855
-【科幻】超炫特效,http://159.75.85.63:35455/yy/37988782
-M恐怖片正在直播,http://159.75.85.63:35455/yy/1352956876
-【陪你看】金刚葫芦娃,http://159.75.85.63:35455/yy/1353323999
-笑声传奇,http://159.75.85.63:35455/yy/1382736880
-奇领,http://159.75.85.63:35455/yy/41584371
-搞笑电影,http://159.75.85.63:35455/yy/38670875 
-国内喜剧,http://159.75.85.63:35455/yy/1382735563
-你最爱的宋小宝,http://159.75.85.63:35455/yy/1354936198
-飞哥全集乐乐陪看,http://159.75.85.63:35455/yy/1352946111
-爆笑小品,http://159.75.85.63:35455/yy/1354931503
-欧美惊悚,http://159.75.85.63:35455/yy/1382656234
-燃爆动作片,http://159.75.85.63:35455/yy/1382736801
-欢乐集结号,http://159.75.85.63:35455/yy/1354931582
-小宝让你乐翻天,http://159.75.85.63:35455/yy/1354930971
-郭德纲相声迷,http://159.75.85.63:35455/yy/1382851593
-小敏,http://159.75.85.63:35455/yy/1382736890
-成龙系列,http://159.75.85.63:35455/yy/1354888751
-经典抗日电影,http://159.75.85.63:35455/yy/1354936141
-纯纯纯儿,http://159.75.85.63:35455/yy/1382851589
-心中的白月光,http://159.75.85.63:35455/yy/1382851580.
-最可爱的人,http://159.75.85.63:35455/yy/1354585554
-毒液：致命守护者,http://159.75.85.63:35455/yy/1382745095
-密子君,http://159.75.85.63:35455/yy/1382736717
-花儿开心吧,http://159.75.85.63:35455/yy/1354930984
-一分钟学道菜,http://159.75.85.63:35455/yy/1382736901
-勇敢的心,http://159.75.85.63:35455/yy/1354744544
-雯子：鹿鼎记  寻秦记,http://159.75.85.63:35455/yy/1456829119
-港片鬼片老电影,http://159.75.85.63:35455/yy/1355269576
-火炬手,http://159.75.85.63:35455/yy/1382851618
-距离你200米,http://159.75.85.63:35455/yy/1354887062
-笑傲帮,http://159.75.85.63:35455/yy/1382735555
-彭禺厶鬼怪奇幻系列电影,http://159.75.85.63:35455/yy/1353200190
-的直播间,http://159.75.85.63:35455/yy/1354129442
-战狼10086,http://159.75.85.63:35455/yy/1382773686
-绝版电影 3000部,http://159.75.85.63:35455/yy/1355263385
-枕上书正在直播,http://159.75.85.63:35455/yy/1351844200
-鬼片恐怖私家影院,http://159.75.85.63:35455/yy/1354209316
-赌神-发哥,http://159.75.85.63:35455/yy/1354889044
-欢乐一起看,http://159.75.85.63:35455/yy/1354930926
-院线动作大片,http://159.75.85.63:35455/yy/1382736900
-速度与激情全集,http://159.75.85.63:35455/yy/1382749892
-木乃伊全集,http://159.75.85.63:35455/yy/1354889024
-金星脱口秀：我敢说你敢听吗,http://159.75.85.63:35455/yy/1382735552
-经典动作电影,http://159.75.85.63:35455/yy/1370293254
-动物世界,http://159.75.85.63:35455/yy/1382749889
-洪金宝福星系列,http://159.75.85.63:35455/yy/1354924839
-叶问全集,http://159.75.85.63:35455/yy/1382828771
-超燃科幻大片：明日边缘,http://159.75.85.63:35455/yy/1382736835
-今夜欢乐颂,http://159.75.85.63:35455/yy/1382735572
-科幻片：来看神奇的地球,http://159.75.85.63:35455/yy/1354930897
-欢乐集结号,http://159.75.85.63:35455/yy/1382735550
-国产大片电影,http://159.75.85.63:35455/yy/1354926655
-大话西游至尊宝,http://159.75.85.63:35455/yy/1382736910
-暖暖1999,http://159.75.85.63:35455/yy/1382851591
-热血战争巨作,http://159.75.85.63:35455/yy/1382745087
-动物世界-领略原始野性,http://159.75.85.63:35455/yy/1382743138
-热门喜剧,http://159.75.85.63:35455/yy/1354931495
-你是最美的风景,http://159.75.85.63:35455/yy/1382851599
-非诚勿扰,http://159.75.85.63:35455/yy/1382735583
-超精彩！系列动作电影,http://159.75.85.63:35455/yy/1382745096
-易中天品三国,http://159.75.85.63:35455/yy/1354931498
-张国荣与周润发的兄弟情,http://159.75.85.63:35455/yy/1354930961
-许多多,http://159.75.85.63:35455/yy/1382851583
-大进军全集：红色系列电影,http://159.75.85.63:35455/yy/1382745083
-了不起的萝莉小玲,http://159.75.85.63:35455/yy/1382736799
-国内经典动作电影,http://159.75.85.63:35455/yy/1382851522
-国外高分大片,http://159.75.85.63:35455/yy/1382736867
-晨晨的影视小窝,http://159.75.85.63:35455/yy/1382851576
-Blingbling,http://159.75.85.63:35455/yy/1382851598
-探秘中华美食,http://159.75.85.63:35455/yy/1354930954
-末日系列-外国电影合集,http://159.75.85.63:35455/yy/1354889019
-深夜惊悚大片,http://159.75.85.63:35455/yy/1382745110
-热血动作电影,http://159.75.85.63:35455/yy/1382736804
-活力满满,http://159.75.85.63:35455/yy/1382851585
-以家人之名,http://159.75.85.63:35455/yy/1382736908
-战争大片-国外电影,http://159.75.85.63:35455/yy/1382736857
-人生必看的科幻片,http://159.75.85.63:35455/yy/1382745114
-美国队长史蒂夫,http://159.75.85.63:35455/yy/1382736813
-高分科幻动作片,http://159.75.85.63:35455/yy/1382749948
-非诚勿扰,http://159.75.85.63:35455/yy/1382745106
-高分动作大片-热血出击,http://159.75.85.63:35455/yy/1382736909
-金三角大营救,http://159.75.85.63:35455/yy/1354930924
-恋歌,http://159.75.85.63:35455/yy/1382851594
-非诚勿扰,http://159.75.85.63:35455/yy/1382745100
-欢乐集结号2,http://159.75.85.63:35455/yy/1354930919
-本山快乐营,http://159.75.85.63:35455/yy/1354933529
-超英集结,http://159.75.85.63:35455/yy/1382745091
-深海利剑,http://159.75.85.63:35455/yy/1382736906
-精彩动作电影享不停,http://159.75.85.63:35455/yy/1382736809
-国内战争电影,http://159.75.85.63:35455/yy/1382736865
-国外科幻,http://159.75.85.63:35455/yy/1382736800
-加勒比海盗系列,http://159.75.85.63:35455/yy/1382749914
-国内科幻片来袭,http://159.75.85.63:35455/yy/1354930821
-单挑荒野第一季,http://159.75.85.63:35455/yy/1354933535
-老广的味道 第3季-美食纪录片,http://159.75.85.63:35455/yy/1382735565
-田园生活,http://159.75.85.63:35455/yy/1382736898
-巩汉林春晚小品合集,http://159.75.85.63:35455/yy/1354889035
-小鬼当家-童年回忆,http://159.75.85.63:35455/yy/1382745104
-欢乐集结号3,http://159.75.85.63:35455/yy/1382736822
-我的父亲我的兵,http://159.75.85.63:35455/yy/1353413714
-传奇英雄,http://159.75.85.63:35455/yy/1382735578
-洪大哥系列,http://159.75.85.63:35455/yy/1354888743
-拆弹专家-刘德华,http://159.75.85.63:35455/yy/1382745111
-王朝-自然-纪录片,http://159.75.85.63:35455/yy/1354930927
-舌尖上的中国第一季,http://159.75.85.63:35455/yy/1354930952
-特种兵归来-国产电影,http://159.75.85.63:35455/yy/1382735581
-本山快乐营1,http://159.75.85.63:35455/yy/1354936209
-香港动作大片,http://159.75.85.63:35455/yy/1382736816
-迷,http://159.75.85.63:35455/yy/1382736719
-科幻电影,http://159.75.85.63:35455/yy/1354930209
-尽享国内精彩战争片,http://159.75.85.63:35455/yy/1382745094
-【港片】赌片 动作,http://159.75.85.63:35455/yy/24921161
-老司机带你开眼界,http://159.75.85.63:35455/yy/1349538007
-小公举,http://159.75.85.63:35455/yy/1382745124
-漫威十年老粉福利来了,http://159.75.85.63:35455/yy/1354930233
-最美的青春,http://159.75.85.63:35455/yy/1382745116
-岳云鹏宋小宝也来演电影了？,http://159.75.85.63:35455/yy/1354926612
-最美的青春,http://159.75.85.63:35455/yy/1382851530
-国外动作大片,http://159.75.85.63:35455/yy/1382735540
-学生兵,http://159.75.85.63:35455/yy/1354658003
-经典大片合集,http://159.75.85.63:35455/yy/1382749895
-一起来笑吧,http://159.75.85.63:35455/yy/1454859415
-珍珠港-电影,http://159.75.85.63:35455/yy/1354936234
-十亿少女的噩梦,http://159.75.85.63:35455/yy/1354921392
-笑傲江湖 第1季,http://159.75.85.63:35455/yy/1382749896
-超激烈的猎食场面,http://159.75.85.63:35455/yy/1382749898
-开心小泡芙,http://159.75.85.63:35455/yy/1382851578
-飓风营救,http://159.75.85.63:35455/yy/1382735547
-热血动作片合集,http://159.75.85.63:35455/yy/1382735627
-精彩动作电影,http://159.75.85.63:35455/yy/1382736823
-欢乐集结号4,http://159.75.85.63:35455/yy/1382736889
-舌尖上的中国第2季,http://159.75.85.63:35455/yy/1354930943
-笑傲江湖 第2季,http://159.75.85.63:35455/yy/1382736914
-史诗级战争大片,http://159.75.85.63:35455/yy/1382745092
-农家小菜,http://159.75.85.63:35455/yy/1382736894
-岳云鹏-屌丝也能追到美女,http://159.75.85.63:35455/yy/1382736882
-野性欧洲,http://159.75.85.63:35455/yy/1354926622
-妖神记,http://159.75.85.63:35455/yy/1382745171
-X战警系列电影,http://159.75.85.63:35455/yy/1382736893
-外国科幻大片,http://159.75.85.63:35455/yy/1382747628
-经典搞笑影片,http://159.75.85.63:35455/yy/1382749878
-脑洞大开的精彩科幻片,http://159.75.85.63:35455/yy/1382736723
-热播国内侦探片,http://159.75.85.63:35455/yy/1382736820
-战争大片,http://159.75.85.63:35455/yy/1382736819
-风靡全球的谍战片,http://159.75.85.63:35455/yy/1382736817
-百家讲坛-红楼梦篇,http://159.75.85.63:35455/yy/1382741639
-最后的狮子-探险纪录片,http://159.75.85.63:35455/yy/1382735577
-小米粒Mili,http://159.75.85.63:35455/yy/1382736842
-开心麻花街,http://159.75.85.63:35455/yy/1354926643
-国产动作电影,http://159.75.85.63:35455/yy/1382736858
-风味原产地潮汕,http://159.75.85.63:35455/yy/1382745178
-国内玄幻电影-林正英,http://159.75.85.63:35455/yy/1354932444
-外国战争大片,http://159.75.85.63:35455/yy/1382736872
-洪金宝福星系列,http://159.75.85.63:35455/yy/1382851602
-妖神记-全集,http://159.75.85.63:35455/yy/1382735551
-真心想让你幸福,http://159.75.85.63:35455/yy/1382736876
-动作大片,http://159.75.85.63:35455/yy/1354930887
-国产喜剧大片,http://159.75.85.63:35455/yy/1382745113
-国外最强动作大片！,http://159.75.85.63:35455/yy/1354936157
-国外科幻片,http://159.75.85.63:35455/yy/1382735585
-百家讲坛-之女皇武则天,http://159.75.85.63:35455/yy/1354889015
-暮光之城全季,http://159.75.85.63:35455/yy/1354930181
-热血战争片,http://159.75.85.63:35455/yy/1354932409
-馋哭了！川味来袭,http://159.75.85.63:35455/yy/1382736913
-赌神3之少年赌神,http://159.75.85.63:35455/yy/1382749912
-地球上的地狱,http://159.75.85.63:35455/yy/1382736918
-小生物的故事,http://159.75.85.63:35455/yy/1382736834
-9.8分！这部纪录片封神了,http://159.75.85.63:35455/yy/1382736825
-体验另一种生活！,http://159.75.85.63:35455/yy/1354936229
-苦乐村官,http://159.75.85.63:35455/yy/1382736864
-笑到飞起！阿拉丁与神灯,http://159.75.85.63:35455/yy/1382749950
-致敬星爷致敬经典,http://159.75.85.63:35455/yy/1354889048
-本山快乐营,http://159.75.85.63:35455/yy/1382736852
-赵本山爆笑小品2,http://159.75.85.63:35455/yy/1354936217
-【科幻电影】,http://159.75.85.63:35455/yy/1355065896
-欢乐集结号58-70,http://159.75.85.63:35455/yy/1382745119
-俺娘田小草,http://159.75.85.63:35455/yy/1382741638
-超燃动作大片,http://159.75.85.63:35455/yy/1382749940
-空谷幽兰,http://159.75.85.63:35455/yy/1382745182
-原始人大挑战,http://159.75.85.63:35455/yy/1382736884
-吐槽大会 第5季,http://159.75.85.63:35455/yy/1354889009
-丫鬟大联盟！笑个不停,http://159.75.85.63:35455/yy/1382749913
-闲暇观看综艺,http://159.75.85.63:35455/yy/1354932379
-机场超燃警匪片,http://159.75.85.63:35455/yy/1382735576
-怀旧小品,http://159.75.85.63:35455/yy/1382736821
-动作大片,http://159.75.85.63:35455/yy/1354888739
-妖神记之黑狱篇,http://159.75.85.63:35455/yy/1382745173
-无罪推定—经典律政港剧,http://159.75.85.63:35455/yy/1354936203
-科幻大片,http://159.75.85.63:35455/yy/1382745181
-蜘蛛侠-院线大片,http://159.75.85.63:35455/yy/1354926671
-今晚80后脱口秀,http://159.75.85.63:35455/yy/1382745098
-丁大命,http://159.75.85.63:35455/yy/1382735579
-超级英雄系列电影,http://159.75.85.63:35455/yy/1382736863
-8090年的热血与回忆,http://159.75.85.63:35455/yy/1356243352
-银河护卫队-国外科幻巨作,http://159.75.85.63:35455/yy/1382736815
-雷神系列,http://159.75.85.63:35455/yy/1354932441
-惊险动作大片！挑战心脏,http://159.75.85.63:35455/yy/1354932407
-强悍“杀猪婆”的励志人生,http://159.75.85.63:35455/yy/1354658062
-永远的经典系列,http://159.75.85.63:35455/yy/1354930204
-来看修牛蹄,http://159.75.85.63:35455/yy/1382749887
-金星脱口秀-爆笑回归,http://159.75.85.63:35455/yy/1382749951
-爆笑抗日！厨子戏子痞子,http://159.75.85.63:35455/yy/1354930816
-火线追凶-侦探系列电影,http://159.75.85.63:35455/yy/1382745090
-中国味道 第4季-美食纪录片,http://159.75.85.63:35455/yy/1382736845
-丈夫在外有人？真相竟然是！,http://159.75.85.63:35455/yy/1354932375
-喜剧闹翻天,http://159.75.85.63:35455/yy/1382735548
-铭记历史-甲午大海战,http://159.75.85.63:35455/yy/1354936195
-侏罗纪公园三部曲,http://159.75.85.63:35455/yy/1354936191
-下饭喜剧电影,http://159.75.85.63:35455/yy/1382736844
-小迷糊 正在直播,http://159.75.85.63:35455/yy/1461931969
-金牌配角达叔系列,http://159.75.85.63:35455/yy/1354888728
-发哥系列,http://159.75.85.63:35455/yy/1354888733
-能耐大了！德云社演技爆棚,http://159.75.85.63:35455/yy/1354930915
-本山快乐营2,http://159.75.85.63:35455/yy/1382736718
-饥饿游戏全季,http://159.75.85.63:35455/yy/1354932365
-最好看的特工电影-007系列大片,http://159.75.85.63:35455/yy/1382736897
-金庸武侠系列,http://159.75.85.63:35455/yy/40959929.
-国家宝藏 第二季,http://159.75.85.63:35455/yy/1382736853
-动作大片-热血开打,http://159.75.85.63:35455/yy/1354936168
-仙灵儿,http://159.75.85.63:35455/yy/1382736887
-什么会让你快乐,http://159.75.85.63:35455/yy/54886912
-蔡明春晚小品,http://159.75.85.63:35455/yy/1354936177
-河山,http://159.75.85.63:35455/yy/1382749952
-国内科幻,http://159.75.85.63:35455/yy/1354936170
-贾玲小品合集,http://159.75.85.63:35455/yy/1382736841
-战争大片,http://159.75.85.63:35455/yy/1382735556
-老卓电影,http://159.75.85.63:35455/yy/1354770516
-传奇之王-影视剧,http://159.75.85.63:35455/yy/1354926735
-国内动作大片,http://159.75.85.63:35455/yy/1382749917
-牛大叔提干,http://159.75.85.63:35455/yy/1382851615
-举起手来,http://159.75.85.63:35455/yy/1382744423
-奥斯卡战争大片,http://159.75.85.63:35455/yy/1354932397
-能耐大了第1季,http://159.75.85.63:35455/yy/1354930195
-我比你更懂车 你偏不信,http://159.75.85.63:35455/yy/85042287
-经典影视,http://159.75.85.63:35455/yy/1355002394
-倚天屠龙经典武打搞笑电影,http://159.75.85.63:35455/yy/1356043643
-不能错过的经典电影解说-越哥说电影,http://159.75.85.63:35455/yy/1382745099
-经典电影,http://159.75.85.63:35455/yy/1450556636
-欢迎光临,http://159.75.85.63:35455/yy/1355532933
-国内最新战争大片,http://159.75.85.63:35455/yy/1382745189
-宋小宝金星自拍玩“亲亲”-今夜百乐门,http://159.75.85.63:35455/yy/1382736912
-买车前看一看 不然血亏,http://159.75.85.63:35455/yy/1349602814
-鬼片剧场,http://159.75.85.63:35455/yy/1353255986
-海王-院线大片,http://159.75.85.63:35455/yy/1354936142
-变形金刚4、5,http://159.75.85.63:35455/yy/1354658064
-开心果 正在直播,http://159.75.85.63:35455/yy/1457622044
-同学会,http://159.75.85.63:35455/yy/1382851478
-小戏骨黄飞鸿,http://159.75.85.63:35455/yy/1354936181
-2012：世界末日,http://159.75.85.63:35455/yy/1382736836
-吐槽大会 第2季,http://159.75.85.63:35455/yy/1354936145
-的士速递全季—爆笑犯罪大片,http://159.75.85.63:35455/yy/1382749910
-精彩影视轮番上映,http://159.75.85.63:35455/yy/1355336008
-男生女生向前冲,http://159.75.85.63:35455/yy/1354930957
-叶问,http://159.75.85.63:35455/yy/54498626
-蜥蜴世界,http://159.75.85.63:35455/yy/1382735545
-七色小彩虹,http://159.75.85.63:35455/yy/1382851601
-香港院线大片-最新,http://159.75.85.63:35455/yy/1354936242
-丛林敢死队-国内电影,http://159.75.85.63:35455/yy/1354936214
-国内动作大片,http://159.75.85.63:35455/yy/1382745176
-百家讲坛――之明太祖朱元璋,http://159.75.85.63:35455/yy/1354936149
-鲨卷风：鲨鱼市区作乱,http://159.75.85.63:35455/yy/1382736851
-奈奈新正在直播,http://159.75.85.63:35455/yy/1462815850
-你看与不看我都在,http://159.75.85.63:35455/yy/1353422557
-十诫—外国影史里程碑,http://159.75.85.63:35455/yy/1354930945
-电影电影电影电影电影电影,http://159.75.85.63:35455/yy/1351496216
-超体：高分科幻片,http://159.75.85.63:35455/yy/1354936116
-解放：苏联战争巨片,http://159.75.85.63:35455/yy/1354936249
-真爱找麻烦,http://159.75.85.63:35455/yy/1354561195
-三个臭皮匠顶一个诸葛亮,http://159.75.85.63:35455/yy/1354936221
-Ｔ东门仔,http://159.75.85.63:35455/yy/1382861117
-烧脑悬疑电影,http://159.75.85.63:35455/yy/1382735571
-本山快乐营-爆笑小品,http://159.75.85.63:35455/yy/1354930948
-捉妖记-国内喜剧电影合集,http://159.75.85.63:35455/yy/1382851137
-欢乐集结号,http://159.75.85.63:35455/yy/1382749911
-电影电影,http://159.75.85.63:35455/yy/1450496699
-超炫科幻大片,http://159.75.85.63:35455/yy/1382736840
-易中天品三国,http://159.75.85.63:35455/yy/1354936178
-战火中的故事,http://159.75.85.63:35455/yy/1382735625
-每走一步都要小心翼翼,http://159.75.85.63:35455/yy/1354936199
-訫海,http://159.75.85.63:35455/yy/1382883830
-和你不见不散,http://159.75.85.63:35455/yy/1355635293
-你爱看的国内战争大片合集,http://159.75.85.63:35455/yy/1354936160
-侦探烧脑电影-悬疑,http://159.75.85.63:35455/yy/1382735543
-恐怖 僵尸 奇幻 经典,http://159.75.85.63:35455/yy/1508896025
-音乐视频,http://159.75.85.63:35455/yy/1355823667
-为你心动一万次,http://159.75.85.63:35455/yy/1356366997
-霍比特人电影系列,http://159.75.85.63:35455/yy/1354930967
-喜乐街,http://159.75.85.63:35455/yy/1354936231
-卧虎藏龙-李安经典作品,http://159.75.85.63:35455/yy/1382736849
+【周星驰】搞笑电影,http://159.75.85.63:35455/yy/38670875
+林正英-经典电影,http://159.75.85.63:35455/yy/34229877
+纪晓岚,http://159.75.85.63:35455/yy/1352227227
+雍正王朝,http://159.75.85.63:35455/yy/1356043620
+狂飙,http://159.75.85.63:35455/yy/1382754187
+纪晓岚,http://159.75.85.63:35455/yy/1382781415
+宰相刘罗锅,http://159.75.85.63:35455/yy/1353892468
+林正英 僵尸 鬼片,http://159.75.85.63:35455/yy/1351505899
+武林外传 超清,http://159.75.85.63:35455/yy/21092633
+港片 恐怖片 鬼片,http://159.75.85.63:35455/yy/1353850051
+弹幕天团 下饭神剧,http://159.75.85.63:35455/yy/23512910
+济公,http://159.75.85.63:35455/yy/1355265814
+少年包青天,http://159.75.85.63:35455/yy/1356043677
+神医喜来乐,http://159.75.85.63:35455/yy/1382714119
+绝版电影 港片女鬼,http://159.75.85.63:35455/yy/1461579859
+鹊刀门,http://159.75.85.63:35455/yy/1355344777
+豪哥带我们发财,http://159.75.85.63:35455/yy/23402146
+雯子：港剧TVB,http://159.75.85.63:35455/yy/1456829119
+赵本山《蓝光版》,http://159.75.85.63:35455/yy/32160832
+港片 喜剧 动作,http://159.75.85.63:35455/yy/1355480591
+【新三国】蓝光版,http://159.75.85.63:35455/yy/1382705738
+鹿鼎记-高清全集,http://159.75.85.63:35455/yy/1382704650
+隋唐英雄传,http://159.75.85.63:35455/yy/1352475619
+111,http://159.75.85.63:35455/yy/1382571192
+宋小宝小品合集,http://159.75.85.63:35455/yy/1354931577
+神探狄仁杰1,http://159.75.85.63:35455/yy/1382851575
+正阳门下,http://159.75.85.63:35455/yy/1382851588
 超精彩武打场景,http://159.75.85.63:35455/yy/1354936131
-一城一味（舌尖姐妹篇）,http://159.75.85.63:35455/yy/1382745179
-盗梦空间！悬疑烧脑！,http://159.75.85.63:35455/yy/1354930903
-失忆24小时：绑架失踪案,http://159.75.85.63:35455/yy/1382749890
-幸福满院,http://159.75.85.63:35455/yy/1382737886
-修牛蹄,http://159.75.85.63:35455/yy/1353413683
-神剧,http://159.75.85.63:35455/yy/1354747273
-最新喜剧电影,http://159.75.85.63:35455/yy/1354936136
-荒诞喜剧！钢的琴,http://159.75.85.63:35455/yy/1382736886
-魅力女神别错过,http://159.75.85.63:35455/yy/1356076442
-芳心纵火犯上线,http://159.75.85.63:35455/yy/1414974976
-爱你的甜心 正在直播,http://159.75.85.63:35455/yy/1351998401
-美国超级英雄电影系列,http://159.75.85.63:35455/yy/1354933556
-复仇者联盟4：终局之战,http://159.75.85.63:35455/yy/1354936167 
-我到家啦,http://159.75.85.63:35455/yy/1382851468
-新主播，求照顾,http://159.75.85.63:35455/yy/1394102549
-亲爱的味道,http://159.75.85.63:35455/yy/1382735561
-温情电影合集,http://159.75.85.63:35455/yy/1354936238
-内部测试频道请勿封禁,http://159.75.85.63:35455/yy/1352488363
-大家都在看的警匪片,http://159.75.85.63:35455/yy/1354930964
-pgsql 正在直播,http://159.75.85.63:35455/yy/53498473
-故事里的中国,http://159.75.85.63:35455/yy/1382736798
-送水工,http://159.75.85.63:35455/yy/1382851475
-经典武侠电影,http://159.75.85.63:35455/yy/28298966 
+欢乐集结号-每天笑不停,http://159.75.85.63:35455/yy/1382741642
+星爷经典-百看不厌,http://159.75.85.63:35455/yy/1382736808
+宰相刘罗锅,http://159.75.85.63:35455/yy/1382745191
+情满四合院-高分电视剧,http://159.75.85.63:35455/yy/1382735541
+花儿开心吧,http://159.75.85.63:35455/yy/1354930984
+情满四合院-小人物的悲欢离合,http://159.75.85.63:35455/yy/1382851601
+【战狼4】吴京老师,http://159.75.85.63:35455/yy/1354784284
+鹿鼎记-周星驰版,http://159.75.85.63:35455/yy/1354658049
+【盜暮笔记】24h,http://159.75.85.63:35455/yy/1356373644
+血色浪漫,http://159.75.85.63:35455/yy/1354926676
+经典鬼片3000部,http://159.75.85.63:35455/yy/29460894
+燕双鹰,http://159.75.85.63:35455/yy/1354143942
+新白娘子传奇,http://159.75.85.63:35455/yy/1354490667
+天龙八部,http://159.75.85.63:35455/yy/1351814644
+打狗棍  4K超清,http://159.75.85.63:35455/yy/39736069
+电影 古惑仔全集,http://159.75.85.63:35455/yy/1354507447
+狄仁杰等你哦,http://159.75.85.63:35455/yy/1457579747
+我和僵尸有个约会,http://159.75.85.63:35455/yy/1354143966
+热度榜1.包青天,http://159.75.85.63:35455/yy/22701868
+三大战役,http://159.75.85.63:35455/yy/1354508622
+燕双鹰,http://159.75.85.63:35455/yy/1352227153
+新三国,http://159.75.85.63:35455/yy/26744898
+【新三国】萌儿陪看,http://159.75.85.63:35455/yy/29216766
+雪中悍刀行,http://159.75.85.63:35455/yy/1382660835
+赌神 港片 喜剧,http://159.75.85.63:35455/yy/1355112116
+小宝 天龙 神雕金庸,http://159.75.85.63:35455/yy/1356043609
+真实案件系列,http://159.75.85.63:35455/yy/1382671124
+港片电影集,http://159.75.85.63:35455/yy/1455225203
+雯子：港剧TVB,http://159.75.85.63:35455/yy/1456829119
+少年包青天,http://159.75.85.63:35455/yy/1382651363
+小甜甜 闯关东,http://159.75.85.63:35455/yy/1382658790
+狄仁杰,http://159.75.85.63:35455/yy/1351755386
+康熙微服私访记,http://159.75.85.63:35455/yy/1352811698
+83射雕英雄传,http://159.75.85.63:35455/yy/1354210357
+狂飙,http://159.75.85.63:35455/yy/1355142167
+【战狼3吴京】独播,http://159.75.85.63:35455/yy/37999586
+悬疑破案港剧,http://159.75.85.63:35455/yy/1354932707
+【战狼3吴京】首播,http://159.75.85.63:35455/yy/1456668939
+港片电影,http://159.75.85.63:35455/yy/33897188
+雪中悍刀行,http://159.75.85.63:35455/yy/1462996362
+封神榜,http://159.75.85.63:35455/yy/1356043643
+动漫,http://159.75.85.63:35455/yy/22777075
+火凤凰之战狼七,http://159.75.85.63:35455/yy/1463088777
+进来 陪你看动漫,http://159.75.85.63:35455/yy/1352866135
+疯狂动漫 正在直播,http://159.75.85.63:35455/yy/1353937086
+鹿鼎记-高清全集,http://159.75.85.63:35455/yy/1382704650
+动漫,http://159.75.85.63:35455/yy/26664495
+斗罗小舞 正在直播,http://159.75.85.63:35455/yy/1354768831
+燕双鹰专场,http://159.75.85.63:35455/yy/23026835
+我的兄弟叫顺溜,http://159.75.85.63:35455/yy/1459331991
+动漫,http://159.75.85.63:35455/yy/1382747970
+雪豹,http://159.75.85.63:35455/yy/1461889059
+神探狄仁杰1—5部全集,http://159.75.85.63:35455/yy/1382705592
+24H地下交通站全,http://159.75.85.63:35455/yy/37880083
+国漫动漫,http://159.75.85.63:35455/yy/1354768828
+谢文东第五部,http://159.75.85.63:35455/yy/24486495
+玄幻修仙,http://159.75.85.63:35455/yy/1459714870
+神雕侠侣,http://159.75.85.63:35455/yy/1351762426
+水浒传,http://159.75.85.63:35455/yy/1353873252
+丫头动漫 斗罗斗破,http://159.75.85.63:35455/yy/1458722520
+二龙湖浩哥【经典搞笑】,http://159.75.85.63:35455/yy/28205255
+神探狄仁杰,http://159.75.85.63:35455/yy/38338029
+武林外传,http://159.75.85.63:35455/yy/1454629602
+封神榜,http://159.75.85.63:35455/yy/1353426319
+李连杰功夫 经典武侠,http://159.75.85.63:35455/yy/74613175
+【港片】赌片 动作,http://159.75.85.63:35455/yy/24921161
+【案发现场】1-4部全集,http://159.75.85.63:35455/yy/33567888
+知否知否应是绿肥红瘦,http://159.75.85.63:35455/yy/21881901
+港片赌片 3000部,http://159.75.85.63:35455/yy/1355076627
+8090.电影一哥,http://159.75.85.63:35455/yy/29197808
+【港台】鬼片 惊悚 喜剧,http://159.75.85.63:35455/yy/1351030377
+111,http://159.75.85.63:35455/yy/1346966327
+大家车言论,http://159.75.85.63:35455/yy/1382570702
+武林外传,http://159.75.85.63:35455/yy/1353852605
+【新三国】吕布,http://159.75.85.63:35455/yy/1382851459
+好先生,http://159.75.85.63:35455/yy/79382500
+经典动漫,http://159.75.85.63:35455/yy/24180320
+【新三国】日版,http://159.75.85.63:35455/yy/1382851457
+一起合租的快乐生活~,http://159.75.85.63:35455/yy/38525272
+《武林外传》武侠,http://159.75.85.63:35455/yy/1394000563
+炊事班的故事II,http://159.75.85.63:35455/yy/1382736885
+炊事班的故事II,http://159.75.85.63:35455/yy/1382851579
+爆笑小品,http://159.75.85.63:35455/yy/1354931503
+大进军全集：红色系列电影,http://159.75.85.63:35455/yy/1382745083
+风筝,http://159.75.85.63:35455/yy/1382828770
+读心神探,http://159.75.85.63:35455/yy/1382736875
+易中天品三国,http://159.75.85.63:35455/yy/1354931498
+大话西游至尊宝,http://159.75.85.63:35455/yy/1382851590
+天道-9.2高分好剧,http://159.75.85.63:35455/yy/1382735574
+康熙王朝,http://159.75.85.63:35455/yy/1382851583
+小兵张嘎,http://159.75.85.63:35455/yy/1354930225
+情满四合院,http://159.75.85.63:35455/yy/1382851524
+【神雕侠侣】金庸经典,http://159.75.85.63:35455/yy/1382704651
+大家都在看的电视剧,http://159.75.85.63:35455/yy/1354930964
+神探狄仁杰1,http://159.75.85.63:35455/yy/1354930934
+今夜欢乐颂,http://159.75.85.63:35455/yy/1382735572
+欢乐颂1,http://159.75.85.63:35455/yy/1382851576
+武林-国产喜剧,http://159.75.85.63:35455/yy/1382736856
+动作武侠港片电影,http://159.75.85.63:35455/yy/1459801818
+小沈阳春晚小品,http://159.75.85.63:35455/yy/1382749941
+情满四合院,http://159.75.85.63:35455/yy/1382736848
+笑傲江湖,http://159.75.85.63:35455/yy/1354930909
+少年包青天第三部,http://159.75.85.63:35455/yy/1382851540
+家花与野花,http://159.75.85.63:35455/yy/1354420982
+炊事班的故事III,http://159.75.85.63:35455/yy/1382736716
+欢乐颂,http://159.75.85.63:35455/yy/1382735624
+寻秦记-穿越剧经典,http://159.75.85.63:35455/yy/1382749900
+父母爱情,http://159.75.85.63:35455/yy/1382746276
+法证先锋,http://159.75.85.63:35455/yy/1354930939
+九品芝麻官包龙星,http://159.75.85.63:35455/yy/1354930968
+惊恐盗暮鬼怪,http://159.75.85.63:35455/yy/1382749525
+二号交通站,http://159.75.85.63:35455/yy/1354930965
+法证先锋Ⅱ,http://159.75.85.63:35455/yy/1382851597
+少年方世玉,http://159.75.85.63:35455/yy/1507704566
+西游记后传 蓝光,http://159.75.85.63:35455/yy/1353392400
+【济公】游本昌,http://159.75.85.63:35455/yy/25519088
+三国演义94年经典版,http://159.75.85.63:35455/yy/1354936241
+笑声传奇,http://159.75.85.63:35455/yy/1382736880
+寻秦记-穿越剧经典,http://159.75.85.63:35455/yy/1382851591
+鬼经典老片,http://159.75.85.63:35455/yy/1463783198
+花千骨,http://159.75.85.63:35455/yy/1354943110
+二号交通站,http://159.75.85.63:35455/yy/1382851582
+恐怖电影,http://159.75.85.63:35455/yy/24066336
+笑傲江湖 4K超清,http://159.75.85.63:35455/yy/1354282410
+少年包青天1~3蓝光版,http://159.75.85.63:35455/yy/38498680
+双月之城-国漫,http://159.75.85.63:35455/yy/1382736907
+【动漫】斗罗斗破,http://159.75.85.63:35455/yy/1353098382
+赌神-发哥,http://159.75.85.63:35455/yy/1354889044
+悬疑电视剧,http://159.75.85.63:35455/yy/1354689861
+开心果 正在直播,http://159.75.85.63:35455/yy/1457622044
+唐朝鬼实录,http://159.75.85.63:35455/yy/1355171357
+恐怖诡异仙魔,http://159.75.85.63:35455/yy/1382748585
+金婚,http://159.75.85.63:35455/yy/1382736832
+国内侦探电影大全,http://159.75.85.63:35455/yy/1354936134
+无敌燕双鹰,http://159.75.85.63:35455/yy/1354825244
+僵尸鬼片,http://159.75.85.63:35455/yy/1460889796
+神探狄仁杰2,http://159.75.85.63:35455/yy/1382828767
+动作 港片电影,http://159.75.85.63:35455/yy/1461037999
+[特种兵系列】,http://159.75.85.63:35455/yy/1508456184
+破案港剧,http://159.75.85.63:35455/yy/1350670730
+进来 陪你看电视,http://159.75.85.63:35455/yy/1353518742
+康熙王朝,http://159.75.85.63:35455/yy/1382736818
+鸡毛飞上天,http://159.75.85.63:35455/yy/1461033197
+狂飙,http://159.75.85.63:35455/yy/1508778570
+倚天屠龙记,http://159.75.85.63:35455/yy/1449856066
+【破案 悬疑 港剧】,http://159.75.85.63:35455/yy/1382800083
+港片,http://159.75.85.63:35455/yy/1459901192
+成龙和李连杰的电影,http://159.75.85.63:35455/yy/1348991095
+雪豹2,http://159.75.85.63:35455/yy/1450496699
+国漫 一起看正在直播,http://159.75.85.63:35455/yy/1351417866
+精彩玄幻电影,http://159.75.85.63:35455/yy/1382688400
+24h 我爱我家 纯音频,http://159.75.85.63:35455/yy/1356212303
+【成龙经典】动作,http://159.75.85.63:35455/yy/34460526
+电影电影,http://159.75.85.63:35455/yy/1458819360
+林正英合集,http://159.75.85.63:35455/yy/1453996620
+(周星驰)超经典搞笑电影,http://159.75.85.63:35455/yy/29945997
+8090年的热血与回忆,http://159.75.85.63:35455/yy/1356243352
+《仙侠》开局无敌了,http://159.75.85.63:35455/yy/29600150
+泡芙陪你看电影,http://159.75.85.63:35455/yy/24407222
+林正英电影,http://159.75.85.63:35455/yy/1382841203
+喜欢的小哥哥点点关注,http://159.75.85.63:35455/yy/98544634
+少年包青天三,http://159.75.85.63:35455/yy/61318527
+易中天品三国完整版,http://159.75.85.63:35455/yy/1461244449
+鉴证实录,http://159.75.85.63:35455/yy/1356341389
+鬼片 港片电影,http://159.75.85.63:35455/yy/1455891197
+精彩动漫,http://159.75.85.63:35455/yy/1420843376
+【新三国】,http://159.75.85.63:35455/yy/1382851415
+都挺好-电视剧,http://159.75.85.63:35455/yy/1382736892
+父母的爱情,http://159.75.85.63:35455/yy/1382768483
+天龙神雕经典回忆,http://159.75.85.63:35455/yy/68260522
+《石敢当》六耳猕猴,http://159.75.85.63:35455/yy/1394156613
+夏洛特烦恼-国内电影-喜剧,http://159.75.85.63:35455/yy/1354936201
+的直播间,http://159.75.85.63:35455/yy/1354129442
+怀旧经典电影,http://159.75.85.63:35455/yy/1382627144
+动漫,http://159.75.85.63:35455/yy/1354143938
+速度与激情全集,http://159.75.85.63:35455/yy/1382749892
+【荒野求生】德爷 贝爷,http://159.75.85.63:35455/yy/39123221
+欢乐集结号,http://159.75.85.63:35455/yy/1354931582
+木乃伊全集,http://159.75.85.63:35455/yy/1354889024
+西游记张卫健版,http://159.75.85.63:35455/yy/1354936155
+震撼！国内功夫大片,http://159.75.85.63:35455/yy/1382736902
+红楼梦1987经典版,http://159.75.85.63:35455/yy/1382745084
+新主播，求照顾,http://159.75.85.63:35455/yy/1382690406
+张国荣与周润发的兄弟情,http://159.75.85.63:35455/yy/1354930961
+读心神探,http://159.75.85.63:35455/yy/1382851589
+父母爱情,http://159.75.85.63:35455/yy/1354926650
+动漫,http://159.75.85.63:35455/yy/23993334
+少年包青天第三部,http://159.75.85.63:35455/yy/1382736814
+传奇英雄,http://159.75.85.63:35455/yy/1382735578
+熊出没之探险日记S1-国漫,http://159.75.85.63:35455/yy/1354930977
+士兵突击,http://159.75.85.63:35455/yy/1382851600
+我爱我家,http://159.75.85.63:35455/yy/1382851580
+[ 经典] 鹿鼎记,http://159.75.85.63:35455/yy/1355526531
+大秧歌  ~24经典好剧,http://159.75.85.63:35455/yy/1354744544
+情满四合院,http://159.75.85.63:35455/yy/1382736888
+吐槽大会 第5季,http://159.75.85.63:35455/yy/1354889009
+法证先锋Ⅲ,http://159.75.85.63:35455/yy/1382736802
+我爱我家,http://159.75.85.63:35455/yy/1382735557
+国外科幻大作合集,http://159.75.85.63:35455/yy/1382736836
+笑傲帮,http://159.75.85.63:35455/yy/1382735555
+小宝让你乐翻天：6到9集,http://159.75.85.63:35455/yy/1354930971
+西游记后传,http://159.75.85.63:35455/yy/1382736846
+郝蕾演绎-情满四合院,http://159.75.85.63:35455/yy/1382745089
+平凡岁月,http://159.75.85.63:35455/yy/1382745117
+中国味道 第4季-美食纪录片,http://159.75.85.63:35455/yy/1382736845
+我的体育老师,http://159.75.85.63:35455/yy/1382745169
+你最爱的宋小宝,http://159.75.85.63:35455/yy/1354936198
+伪装者,http://159.75.85.63:35455/yy/1354936244
+洪金宝福星系列,http://159.75.85.63:35455/yy/1354924839
+国内高分悬疑剧-风筝,http://159.75.85.63:35455/yy/1354931585
+新白娘子4K高清观看,http://159.75.85.63:35455/yy/1508902755
+士兵突击,http://159.75.85.63:35455/yy/1382828766
+温柔好声音 给你停靠港,http://159.75.85.63:35455/yy/1349538007
+【经典港片】佟瑶,http://159.75.85.63:35455/yy/23531261
+【天龙八部】蓝光超清,http://159.75.85.63:35455/yy/28996058
+来看修牛蹄,http://159.75.85.63:35455/yy/1382749887
+绝版鬼片港片贼好看,http://159.75.85.63:35455/yy/32326398
+金牌配角达叔系列,http://159.75.85.63:35455/yy/1354888728
+炊事班的故事1-2,http://159.75.85.63:35455/yy/1382736886
+距离你500米,http://159.75.85.63:35455/yy/1354821987
+港片鬼片老电影,http://159.75.85.63:35455/yy/1355269576
+最美的青春,http://159.75.85.63:35455/yy/1382851530
+24小时陪你看,http://159.75.85.63:35455/yy/1331686180
+鬼片、港片3000部,http://159.75.85.63:35455/yy/1335509613
+金婚,http://159.75.85.63:35455/yy/1382828768
+神探狄仁杰2,http://159.75.85.63:35455/yy/1382851146
+布丁-玄幻电影正在直播,http://159.75.85.63:35455/yy/1455460998
+新水浒传,http://159.75.85.63:35455/yy/1414938657
+紫霞仙子被揍了,http://159.75.85.63:35455/yy/1382656234
+一起看电视剧,http://159.75.85.63:35455/yy/1356158015
+重温经典电影,http://159.75.85.63:35455/yy/1382793140
+影视剧场,http://159.75.85.63:35455/yy/1355260855
+和你不见不散,http://159.75.85.63:35455/yy/1355635293
+天下第一,http://159.75.85.63:35455/yy/1382736838
+动漫,http://159.75.85.63:35455/yy/25055036
+倚天屠龙记 超清,http://159.75.85.63:35455/yy/1354755003
+24【动漫】正在直播,http://159.75.85.63:35455/yy/1350984033
+【电影】顶级动作电影,http://159.75.85.63:35455/yy/24923327
+【电影】超然巨作,http://159.75.85.63:35455/yy/29170933
+【陪你看】金刚葫芦娃,http://159.75.85.63:35455/yy/1353323999
+动漫奥斯卡正在直播,http://159.75.85.63:35455/yy/1382626335
+国产喜剧,http://159.75.85.63:35455/yy/1382741637
+炊事班的故事,http://159.75.85.63:35455/yy/1382749901
+军旅剧（回忆经典）,http://159.75.85.63:35455/yy/1356306672
+武侠港片合集,http://159.75.85.63:35455/yy/1451866697
+【电影】超然巨作,http://159.75.85.63:35455/yy/26623173
+搞笑经典电影,http://159.75.85.63:35455/yy/1351537467
+欢乐集结号2,http://159.75.85.63:35455/yy/1354930919
+斗罗斗破精彩动漫,http://159.75.85.63:35455/yy/1507304388
+【科幻】超炫特效,http://159.75.85.63:35455/yy/37988782
+【武林客栈】,http://159.75.85.63:35455/yy/1382773728
+少年歌行,http://159.75.85.63:35455/yy/1450556636
+【动漫】斗罗斗破超清全屏,http://159.75.85.63:35455/yy/1382689904
+老妖恐鬼片,http://159.75.85.63:35455/yy/1354952229
+征服,http://159.75.85.63:35455/yy/1461655788
+国内喜剧,http://159.75.85.63:35455/yy/1382735563
+萌萌爱追剧,http://159.75.85.63:35455/yy/1382745093
+国内玄幻电影-林正英,http://159.75.85.63:35455/yy/1354932444
+成龙系列,http://159.75.85.63:35455/yy/1354888751
+经典动作电影,http://159.75.85.63:35455/yy/1370293254
+电影百团大战,http://159.75.85.63:35455/yy/1382736871
+宝莲灯前传,http://159.75.85.63:35455/yy/1354931631
+澳门风云,http://159.75.85.63:35455/yy/1459243913
+热血抗日电影,http://159.75.85.63:35455/yy/1382749907
+欢乐一起看,http://159.75.85.63:35455/yy/1354930926
+新白娘子传奇-女神赵雅芝,http://159.75.85.63:35455/yy/1354930969
+法证先锋Ⅱ,http://159.75.85.63:35455/yy/1354888736
+科幻电影,http://159.75.85.63:35455/yy/1354930209
+父母爱情,http://159.75.85.63:35455/yy/1382851594
+三国演义【1994】,http://159.75.85.63:35455/yy/1354930932
+超激烈的猎食场面,http://159.75.85.63:35455/yy/1382749898
+经典大片合集,http://159.75.85.63:35455/yy/1382749895
+动物世界,http://159.75.85.63:35455/yy/1382749889
+金星脱口秀：我敢说你敢听吗,http://159.75.85.63:35455/yy/1382735552
+大话西游至尊宝,http://159.75.85.63:35455/yy/1382736910
+热血战争巨作,http://159.75.85.63:35455/yy/1382745087
+金星脱口秀：我敢说你敢听吗,http://159.75.85.63:35455/yy/1382735552
+大话西游至尊宝,http://159.75.85.63:35455/yy/1382736910
+热血战争巨作,http://159.75.85.63:35455/yy/1382745087
+非诚勿扰,http://159.75.85.63:35455/yy/1382735583
+末日系列-外国电影合集,http://159.75.85.63:35455/yy/1354889019
+了不起的萝莉小玲,http://159.75.85.63:35455/yy/1382736799
+超燃科幻大片：明日边缘,http://159.75.85.63:35455/yy/1382736835
+热血动作电影,http://159.75.85.63:35455/yy/1382736804
+动物世界-领略原始野性,http://159.75.85.63:35455/yy/1382743138
+科幻片：来看神奇的地球,http://159.75.85.63:35455/yy/1354930897
+魔幻手机,http://159.75.85.63:35455/yy/1382851541
+小敏,http://159.75.85.63:35455/yy/1382736890
+施公奇案1-欧阳震华,http://159.75.85.63:35455/yy/1382749918
+超精彩！系列动作电影,http://159.75.85.63:35455/yy/1382745096
+伪装者,http://159.75.85.63:35455/yy/1382851593
+黑冰,http://159.75.85.63:35455/yy/1354932427
+国外高分大片,http://159.75.85.63:35455/yy/1382736867
+笑傲江湖-电视剧,http://159.75.85.63:35455/yy/1354936128
+国内喜剧,http://159.75.85.63:35455/yy/1382851598
+野山鹰-影视剧,http://159.75.85.63:35455/yy/1354932395
+热门喜剧,http://159.75.85.63:35455/yy/1354931495
+yy电视,http://159.75.85.63:35455/yy/1382851577
+叛逆者,http://159.75.85.63:35455/yy/1382736868
+聊斋志异S1,http://159.75.85.63:35455/yy/1382736975
+福贵,http://159.75.85.63:35455/yy/1354926537
+国产大片电影,http://159.75.85.63:35455/yy/1354926655
+老广的味道 第3季-美食纪录片,http://159.75.85.63:35455/yy/1382735565
+欢天喜地七仙女,http://159.75.85.63:35455/yy/1382735553
+加勒比海盗系列,http://159.75.85.63:35455/yy/1382749914
+本山快乐营1,http://159.75.85.63:35455/yy/1354936209
+来自星星的你,http://159.75.85.63:35455/yy/1354930976
+以家人之名,http://159.75.85.63:35455/yy/1382736908
+法证先锋,http://159.75.85.63:35455/yy/1382851599
+特种兵归来-国产电影,http://159.75.85.63:35455/yy/1382735581
+动作大片-热血开打,http://159.75.85.63:35455/yy/1354936168
+笑傲江湖 第1季,http://159.75.85.63:35455/yy/1382749896
+国产喜剧,http://159.75.85.63:35455/yy/1382735584
+探秘中华美食,http://159.75.85.63:35455/yy/1354930954
+亲爱的热爱的,http://159.75.85.63:35455/yy/1354932433
+甜甜的恋爱 这狗粮我吃了,http://159.75.85.63:35455/yy/1354932438
+仙剑奇侠传-神仙姐姐驾到,http://159.75.85.63:35455/yy/1382749903
+十大经典港剧之《大时代》,http://159.75.85.63:35455/yy/1354930891
+国内战争电影,http://159.75.85.63:35455/yy/1382736865
+战争大片-国外电影,http://159.75.85.63:35455/yy/1382736857
+电影,http://159.75.85.63:35455/yy/1382851578
+超燃警匪片,http://159.75.85.63:35455/yy/1382735576
+小欢喜,http://159.75.85.63:35455/yy/1382737888
+高分动作大片-热血出击,http://159.75.85.63:35455/yy/1382736909
+我的前半生,http://159.75.85.63:35455/yy/1382735564
+地球上的地狱,http://159.75.85.63:35455/yy/1382736918
+憨豆先生-经典喜剧,http://159.75.85.63:35455/yy/1354936239
+美国队长史蒂夫,http://159.75.85.63:35455/yy/1382736813
+欢乐集结号3,http://159.75.85.63:35455/yy/1382736822
+舌尖上的中国第2季,http://159.75.85.63:35455/yy/1354930943
+岳云鹏宋小宝也来演电影了？,http://159.75.85.63:35455/yy/1354926612
+漫威十年老粉福利来了,http://159.75.85.63:35455/yy/1354930233
+搞笑经典电影,http://159.75.85.63:35455/yy/1351537467
+巩汉林春晚小品合集,http://159.75.85.63:35455/yy/1354889035
+体验另一种生活！,http://159.75.85.63:35455/yy/1354936229
+大唐双龙传,http://159.75.85.63:35455/yy/1354930979
+谈判专家,http://159.75.85.63:35455/yy/1382735560
+农家小菜,http://159.75.85.63:35455/yy/1382736894
+穿越时空的爱恋,http://159.75.85.63:35455/yy/1382735567
+大汉贤后卫子夫,http://159.75.85.63:35455/yy/1382735569
+金星脱口秀-爆笑回归,http://159.75.85.63:35455/yy/1382749951
+侏罗纪公园三部曲,http://159.75.85.63:35455/yy/1354936191
+外国科幻大片,http://159.75.85.63:35455/yy/1382747628
+漫画解说,http://159.75.85.63:35455/yy/1382735568
+大汉天子S1,http://159.75.85.63:35455/yy/1382749902
+小生物的故事,http://159.75.85.63:35455/yy/1382736834
+经典抗日电影,http://159.75.85.63:35455/yy/1354936141
+本山快乐营,http://159.75.85.63:35455/yy/1354933529
+宫心计-港剧-古装,http://159.75.85.63:35455/yy/1354933540
+上海滩,http://159.75.85.63:35455/yy/1382745184
+欢乐集结号2,http://159.75.85.63:35455/yy/1354930919
+小鬼当家-童年回忆,http://159.75.85.63:35455/yy/1382745104
+永远的经典系列,http://159.75.85.63:35455/yy/1354930204
+动作大片,http://159.75.85.63:35455/yy/1354888739
+笑傲江湖 第2季,http://159.75.85.63:35455/yy/1382736914
+叶问全集,http://159.75.85.63:35455/yy/1382828771
+侏罗纪世界-国外科幻大片合集,http://159.75.85.63:35455/yy/1382736851
+渴望,http://159.75.85.63:35455/yy/1354930963
+单挑荒野第一季,http://159.75.85.63:35455/yy/1354933535
+陈情令,http://159.75.85.63:35455/yy/1382745121
+国产动作电影,http://159.75.85.63:35455/yy/1382736858
+粟裕大将-影视,http://159.75.85.63:35455/yy/1354926542
+粉红女郎,http://159.75.85.63:35455/yy/1354888671
+拆弹专家-刘德华,http://159.75.85.63:35455/yy/1382745111
+飓风营救,http://159.75.85.63:35455/yy/1382735547
+迷,http://159.75.85.63:35455/yy/1382736719
+黄大妮-电视剧,http://159.75.85.63:35455/yy/1354930904
+少年四大名捕,http://159.75.85.63:35455/yy/1354936203
+大江大河-高分影视推荐,http://159.75.85.63:35455/yy/1382736806
+国外科幻,http://159.75.85.63:35455/yy/1382736800
+国外黑色喜剧：冷幽默小剧场,http://159.75.85.63:35455/yy/1382745175
+香港院线大片-最新,http://159.75.85.63:35455/yy/1354936242
+珍珠港-电影,http://159.75.85.63:35455/yy/1354936234
+香港动作大片,http://159.75.85.63:35455/yy/1382736816
+大江大河2-高分影视推荐,http://159.75.85.63:35455/yy/1382736797
+小米粒Mili,http://159.75.85.63:35455/yy/1382736842
+最后的狮子-探险纪录片,http://159.75.85.63:35455/yy/1382735577
+钟馗传说,http://159.75.85.63:35455/yy/1382736839
+史诗级战争大片,http://159.75.85.63:35455/yy/1382745092
+猩球崛起-怪兽片合集,http://159.75.85.63:35455/yy/1354930181
+学生兵,http://159.75.85.63:35455/yy/1354658003
+大明王朝,http://159.75.85.63:35455/yy/1382736879
+不用加班真开心,http://159.75.85.63:35455/yy/1354930924
+编辑部的故事,http://159.75.85.63:35455/yy/1354936120
+百家讲坛-红楼梦篇,http://159.75.85.63:35455/yy/1382741639
+强悍“杀猪婆”的励志人生,http://159.75.85.63:35455/yy/1354658062
+发哥系列,http://159.75.85.63:35455/yy/1354888733
+丛林敢死队-国内电影,http://159.75.85.63:35455/yy/1354936214
+港片—两公婆八条心,http://159.75.85.63:35455/yy/1382736917
+憨豆先生,http://159.75.85.63:35455/yy/1354930189
+国漫  动漫,http://159.75.85.63:35455/yy/1354076248
+国内经典动作电影,http://159.75.85.63:35455/yy/1382851522
+无敌县令,http://159.75.85.63:35455/yy/1354932390
+法证先锋2,http://159.75.85.63:35455/yy/1382736870
+贾玲春晚小品,http://159.75.85.63:35455/yy/1382736720
+降服魔女的手段-泰剧,http://159.75.85.63:35455/yy/1354932405
+闲暇观看综艺,http://159.75.85.63:35455/yy/1354932379
+华子系列,http://159.75.85.63:35455/yy/1354888726
+密子君,http://159.75.85.63:35455/yy/1382736717
+超英集结,http://159.75.85.63:35455/yy/1382745091
+苦乐村官,http://159.75.85.63:35455/yy/1382736864
+第8号当铺,http://159.75.85.63:35455/yy/1382736905
+另类民兵葛二蛋,http://159.75.85.63:35455/yy/1382736895
+战争大片,http://159.75.85.63:35455/yy/1382736819
+国内奇幻电影大片,http://159.75.85.63:35455/yy/1382735627
+欢乐集结号,http://159.75.85.63:35455/yy/1382735550
+重生之超级赛亚人,http://159.75.85.63:35455/yy/1354936124
+小公举,http://159.75.85.63:35455/yy/1382745124
+缺宅男女-精彩港剧,http://159.75.85.63:35455/yy/1382745088
+本山快乐营2,http://159.75.85.63:35455/yy/1382736718
+宋小宝春晚小品合集,http://159.75.85.63:35455/yy/1382736866
+致敬星爷致敬经典,http://159.75.85.63:35455/yy/1354889048
+心理追凶-烧脑港剧,http://159.75.85.63:35455/yy/1354936207
+奥斯卡战争大片,http://159.75.85.63:35455/yy/1354932397
+请回答1988,http://159.75.85.63:35455/yy/1354932362
+科幻惊悚片-异形,http://159.75.85.63:35455/yy/1382735543
+太空生命？高分科幻电影开播,http://159.75.85.63:35455/yy/1382851586
+娘亲舅大,http://159.75.85.63:35455/yy/1354932360
+007系列动作大片,http://159.75.85.63:35455/yy/1382736897
+空谷幽兰,http://159.75.85.63:35455/yy/1382745182
+法外风云,http://159.75.85.63:35455/yy/1382736805
+名媛望族-精彩港剧,http://159.75.85.63:35455/yy/1354932431
+神厨小福贵,http://159.75.85.63:35455/yy/1382736860
+阳光之下,http://159.75.85.63:35455/yy/1354936157
+妖神记之黑狱篇,http://159.75.85.63:35455/yy/1382745173
+巴不得妈妈-港式温情大放送,http://159.75.85.63:35455/yy/1354658064
+妖神记-全集,http://159.75.85.63:35455/yy/1382735551
+机动步队,http://159.75.85.63:35455/yy/1354932371
+科幻大片,http://159.75.85.63:35455/yy/1382745181
+院线动作大片,http://159.75.85.63:35455/yy/1382736900
+银河护卫队-国外科幻巨作,http://159.75.85.63:35455/yy/1382736815
+【河神】,http://159.75.85.63:35455/yy/1354806550
+百家讲坛-之女皇武则天,http://159.75.85.63:35455/yy/1354889015
+灌篮高手,http://159.75.85.63:35455/yy/1382735626
+白鹿原-国内经典战争片,http://159.75.85.63:35455/yy/1354931488
+吐槽大会 第1季,http://159.75.85.63:35455/yy/1354936210
+超级英雄系列电影,http://159.75.85.63:35455/yy/1382736863
+动作大片,http://159.75.85.63:35455/yy/1354930887
+蔡明春晚小品,http://159.75.85.63:35455/yy/1354936177
+高分港剧合集,http://159.75.85.63:35455/yy/1382735542
+飞虎之雷霆极战,http://159.75.85.63:35455/yy/1382736869
+欢乐集结号58-70,http://159.75.85.63:35455/yy/1382745119
+我的父亲我的兵,http://159.75.85.63:35455/yy/1353413714
+宫心计,http://159.75.85.63:35455/yy/1354932429
+百家讲坛――之明太祖朱元璋,http://159.75.85.63:35455/yy/1354936149
+燃爆动作片,http://159.75.85.63:35455/yy/1382736801
+你爱看的抗日大片,http://159.75.85.63:35455/yy/1354936160
+吐槽大会 第2季,http://159.75.85.63:35455/yy/1354936145
+国产战争片合集,http://159.75.85.63:35455/yy/1382749950
+生逢灿烂的日子,http://159.75.85.63:35455/yy/1382745085
+宫锁珠帘,http://159.75.85.63:35455/yy/1354926666
+毒液：致命守护者,http://159.75.85.63:35455/yy/1382745095
+俺娘田小草,http://159.75.85.63:35455/yy/1382741638
+海王-院线大片,http://159.75.85.63:35455/yy/1354936142
+最美的青春,http://159.75.85.63:35455/yy/1382745116
+舌尖上的中国第一季,http://159.75.85.63:35455/yy/1354930952
+国内喜剧,http://159.75.85.63:35455/yy/1382736862
+蜘蛛侠-院线大片,http://159.75.85.63:35455/yy/1354926671
+缺宅男女,http://159.75.85.63:35455/yy/1354930937
+流金岁月-经典港剧,http://159.75.85.63:35455/yy/1382736891
+女医明妃传,http://159.75.85.63:35455/yy/1382736861
+本山快乐营-爆笑小品,http://159.75.85.63:35455/yy/1354930948
+爆笑小品！开心麻花街,http://159.75.85.63:35455/yy/1354926643
+丁大命,http://159.75.85.63:35455/yy/1382735579
+笑到飞起！喜剧电影精选集,http://159.75.85.63:35455/yy/1382749912
+洪大哥系列,http://159.75.85.63:35455/yy/1354888743
+巾帼枭雄之义海豪情,http://159.75.85.63:35455/yy/1382736859
+雷神系列,http://159.75.85.63:35455/yy/1354932441
+王朝-自然-纪录片,http://159.75.85.63:35455/yy/1354930927
+恐怖电影,http://159.75.85.63:35455/yy/1458572505
+家有九凤-影视剧,http://159.75.85.63:35455/yy/1354930894
+童养媳金玉和陆家四丈夫的爱恨情仇,http://159.75.85.63:35455/yy/1382749905
+远去的飞鹰-影视剧,http://159.75.85.63:35455/yy/1354930912
+铭记历史-抗战大片,http://159.75.85.63:35455/yy/1354936195
+丫鬟大联盟！笑个不停,http://159.75.85.63:35455/yy/1382749913
+一分钟学道菜,http://159.75.85.63:35455/yy/1382736901
+人生必看的科幻片,http://159.75.85.63:35455/yy/1382745114
+欢乐集结号4,http://159.75.85.63:35455/yy/1382736889
+萌鸡小队S1-国漫,http://159.75.85.63:35455/yy/1382736904
+能耐大了第1季,http://159.75.85.63:35455/yy/1354930195
+爆笑小品大合集,http://159.75.85.63:35455/yy/1382736821
+【无心法师】24h~,http://159.75.85.63:35455/yy/29067083
+惊险刺激！国内最新战争大片,http://159.75.85.63:35455/yy/1382745189
+原始人大挑战,http://159.75.85.63:35455/yy/1382736884
+脑洞大开的精彩科幻片,http://159.75.85.63:35455/yy/1382736723
+能耐大了！德云社演技爆棚,http://159.75.85.63:35455/yy/1354930915
+经典港片-情越双白线,http://159.75.85.63:35455/yy/1382736843
+鹿鼎记,http://159.75.85.63:35455/yy/1460463356
+小小飞虎队,http://159.75.85.63:35455/yy/1382749888
+战火中的故事,http://159.75.85.63:35455/yy/1382735625
+深海利剑,http://159.75.85.63:35455/yy/1382736906
+烧脑悬疑电影,http://159.75.85.63:35455/yy/1382735571
+喜剧闹翻天,http://159.75.85.63:35455/yy/1382735548
+河山,http://159.75.85.63:35455/yy/1382749952
+飞虎之潜行极战,http://159.75.85.63:35455/yy/1354932420
+什么会让你快乐,http://159.75.85.63:35455/yy/54886912
+如懿电影,http://159.75.85.63:35455/yy/1353913646
+我们的法兰西岁月,http://159.75.85.63:35455/yy/1382745090
+甜蜜青春-致我们暖暖的小时光,http://159.75.85.63:35455/yy/1382736874
+小戏骨黄飞鸿-国内动作片,http://159.75.85.63:35455/yy/1354936181
+国内科幻片来袭,http://159.75.85.63:35455/yy/1354930821
+风味原产地潮汕,http://159.75.85.63:35455/yy/1382745178
+回家的诱惑,http://159.75.85.63:35455/yy/1354658043
+岳云鹏-屌丝抱得美人归,http://159.75.85.63:35455/yy/1382736882
+忠烈杨家将,http://159.75.85.63:35455/yy/1382749909
+百万巨鳄-好看的喜剧片合集,http://159.75.85.63:35455/yy/1354930945
+YY用户,http://159.75.85.63:35455/yy/85042287
+电影,http://159.75.85.63:35455/yy/37454459
+复仇者联盟全季,http://159.75.85.63:35455/yy/1354936167
+宇宙护卫队--国漫,http://159.75.85.63:35455/yy/1382736837
+金玉满堂：精彩港剧,http://159.75.85.63:35455/yy/1382736881
+国产家庭电视剧-如果岁月可回头,http://159.75.85.63:35455/yy/1382736883
+【终极笔记】,http://159.75.85.63:35455/yy/1353215589
+TVB经典港剧-寒山潜龙,http://159.75.85.63:35455/yy/1382745103
+美国惊险动作大片-饥饿游戏全季,http://159.75.85.63:35455/yy/1354932365
+【林正英】僵尸 鬼片,http://159.75.85.63:35455/yy/30668277
+寻秦记,http://159.75.85.63:35455/yy/1354658048
+蒋勤勤王阳演绎-田姐辣妹,http://159.75.85.63:35455/yy/1354932375
+蜘蛛侠系列-国外科幻大片合集,http://159.75.85.63:35455/yy/1354936136
+施公奇案2-欧阳震华,http://159.75.85.63:35455/yy/1382736824
+欢乐集结号,http://159.75.85.63:35455/yy/1382749911
+你最爱的小龙女-神雕侠侣,http://159.75.85.63:35455/yy/1354926637
+非诚勿扰,http://159.75.85.63:35455/yy/1382745106
+一起来笑吧,http://159.75.85.63:35455/yy/1454859415
+我家无难事-经典港剧,http://159.75.85.63:35455/yy/1382736715
+今晚80后脱口秀,http://159.75.85.63:35455/yy/1382745098
+风靡全球的谍战片,http://159.75.85.63:35455/yy/1382736817
+解放：苏联战争巨片,http://159.75.85.63:35455/yy/1354936249
+你想看什么你就进来,http://159.75.85.63:35455/yy/25444932
+华矩小九er 电 正在直播,http://159.75.85.63:35455/yy/1354690927
+国外动作大片,http://159.75.85.63:35455/yy/1382735540
+当旺爸爸-港剧,http://159.75.85.63:35455/yy/1354936208
+国内动作大片,http://159.75.85.63:35455/yy/1382745176
+法证先锋Ⅳ,http://159.75.85.63:35455/yy/1354932426
+超治愈！奇趣动物园,http://159.75.85.63:35455/yy/1382735545
+宫心计,http://159.75.85.63:35455/yy/1382828769
+犬夜叉，半妖四魂之玉之路,http://159.75.85.63:35455/yy/1509038705
+距离你500米,http://159.75.85.63:35455/yy/37264974
+尽享国内精彩战争片,http://159.75.85.63:35455/yy/1382745094
+蜗牛与黄鹂鸟,http://159.75.85.63:35455/yy/1382851148
+田园生活,http://159.75.85.63:35455/yy/1382736898
+过瘾！国外战争大片,http://159.75.85.63:35455/yy/1354930957
+大汉天子S2,http://159.75.85.63:35455/yy/1382736807
+赵本山爆笑小品2,http://159.75.85.63:35455/yy/1354936217
+超炫科幻大片,http://159.75.85.63:35455/yy/1382736840
+9.8分！这部纪录片封神了,http://159.75.85.63:35455/yy/1382736825
+野性欧洲,http://159.75.85.63:35455/yy/1354926622
+长安汽车UNI-T直播,http://159.75.85.63:35455/yy/1349602814
+暮光之城全季,http://159.75.85.63:35455/yy/1382745179
+港剧-状王之王,http://159.75.85.63:35455/yy/1382736920
+非诚勿扰,http://159.75.85.63:35455/yy/1382745100
+三国,http://159.75.85.63:35455/yy/1355260662
+港剧迷必追！《收规华》烧脑来袭,http://159.75.85.63:35455/yy/1382741640
+科幻大作-星际旅行1-11,http://159.75.85.63:35455/yy/1382736903
+国内科幻,http://159.75.85.63:35455/yy/1354936170
+深夜惊悚动作大片,http://159.75.85.63:35455/yy/1382745110
+悬疑剧-河神,http://159.75.85.63:35455/yy/1353413683
+溏心风暴之家好月圆,http://159.75.85.63:35455/yy/1354888747
+新世界,http://159.75.85.63:35455/yy/1382736850
+北京爱情故事，心动不打烊,http://159.75.85.63:35455/yy/1382744423
+大片,http://159.75.85.63:35455/yy/1382851602
+外国战争大片,http://159.75.85.63:35455/yy/1382736872
+经典搞笑影片,http://159.75.85.63:35455/yy/1382749878
+国内动作大片,http://159.75.85.63:35455/yy/1382749917
+本山快乐营,http://159.75.85.63:35455/yy/1382736852
+十亿少女的噩梦,http://159.75.85.63:35455/yy/1354921392
+刑事侦缉档案I,http://159.75.85.63:35455/yy/1382851585
+24小时循环播电视剧,http://159.75.85.63:35455/yy/53320802
+精彩动作电影,http://159.75.85.63:35455/yy/1382736823
+下饭喜剧电影,http://159.75.85.63:35455/yy/1354658051
+梦梦古装武侠剧,http://159.75.85.63:35455/yy/1382881708
+【科幻电影】,http://159.75.85.63:35455/yy/1355065896
+胡杏儿出演港剧-巴不得爸爸,http://159.75.85.63:35455/yy/1382749890
+正阳门下 正在直播,http://159.75.85.63:35455/yy/1453059740
+这个杀手不太冷-国外经典动作片,http://159.75.85.63:35455/yy/1354936122
+三个臭皮匠顶一个诸葛亮,http://159.75.85.63:35455/yy/1354936221
+鬼片.惊悚.港片,http://159.75.85.63:35455/yy/1355497884
+【伪装者】24H~,http://159.75.85.63:35455/yy/1354555195
+邻家诗话-讲中国诗词好故事,http://159.75.85.63:35455/yy/1382735559
+【利刃出击乐乐陪看】,http://159.75.85.63:35455/yy/1352946111
+万里走单骑-解密世界遗产的互动综艺,http://159.75.85.63:35455/yy/1382736853
+战争大片,http://159.75.85.63:35455/yy/1382735556
+怪医文三块-影视剧,http://159.75.85.63:35455/yy/1354936154
+爆笑抗日！厨子戏子痞子,http://159.75.85.63:35455/yy/1354930816
+国产喜剧大片,http://159.75.85.63:35455/yy/1382745113
+奇缘港台影院,http://159.75.85.63:35455/yy/1354889234
+重温白头神探，笑料满满,http://159.75.85.63:35455/yy/1382735561
+泪点低慎入！国内温情电影合集,http://159.75.85.63:35455/yy/1354936238
+港剧-肝胆昆仑,http://159.75.85.63:35455/yy/1354936116
+鸣人和九尾的故事,http://159.75.85.63:35455/yy/1355336008
+传奇之王-影视剧,http://159.75.85.63:35455/yy/1354926735
+欢乐密码：国外喜剧非常小特务,http://159.75.85.63:35455/yy/1382736849
+穿越古今，最美中国戏来袭,http://159.75.85.63:35455/yy/1354936178
+公主嫁到,http://159.75.85.63:35455/yy/1382736915
+超燃动作大片,http://159.75.85.63:35455/yy/1382749940
+河南yy游客喜欢村上种树,http://159.75.85.63:35455/yy/1355369992
+燃爆！国外超级动作大片,http://159.75.85.63:35455/yy/1354933556
+爆笑来袭-小品欢乐集结号,http://159.75.85.63:35455/yy/1382735558
+【动漫】精彩国漫,http://159.75.85.63:35455/yy/28796627
+天龙八部（国语版）,http://159.75.85.63:35455/yy/1382736855
+喜乐街,http://159.75.85.63:35455/yy/1354936231
+超美！国家自然纪录片,http://159.75.85.63:35455/yy/1382736913
+港剧-团圆,http://159.75.85.63:35455/yy/1382749944
+经典港剧-潮拜武当,http://159.75.85.63:35455/yy/1354930967
+江城诡事,http://159.75.85.63:35455/yy/1355052097
+荒野求生,http://159.75.85.63:35455/yy/1382631852
+电影电影电影电影电影电影,http://159.75.85.63:35455/yy/1351496216
+一剑开天门,http://159.75.85.63:35455/yy/34313906
+热播国外悬疑片,http://159.75.85.63:35455/yy/1382736820
+仙灵儿,http://159.75.85.63:35455/yy/1382736887
+东哥二手车讲堂,http://159.75.85.63:35455/yy/1352214711
+战狼10086,http://159.75.85.63:35455/yy/1382773686
+电视剧-流金岁月,http://159.75.85.63:35455/yy/1382749906
+少年包青天,http://159.75.85.63:35455/yy/1356331540
+TVB笑料王，翻生武林必看港剧,http://159.75.85.63:35455/yy/1382749910
+名不虚传-韩剧,http://159.75.85.63:35455/yy/1382749904
+二十四小时看影视,http://159.75.85.63:35455/yy/1509397936
+唐伯虎点秋香-国内爆笑喜剧,http://159.75.85.63:35455/yy/1382851137
+电影黄飞鸿-燃爆武侠魂,http://159.75.85.63:35455/yy/1382736841
+国学battle！国学小名士擂台赛,http://159.75.85.63:35455/yy/1354936228
+高分科幻动作片,http://159.75.85.63:35455/yy/1382749948
+经典港剧-师父·明白了,http://159.75.85.63:35455/yy/1354889042
+X战警系列-国外科幻片,http://159.75.85.63:35455/yy/1382735585
+经典港剧—街坊财爷,http://159.75.85.63:35455/yy/1382735566
+抗日神片，燃爆抗战热血魂,http://159.75.85.63:35455/yy/1354926600
+你好，李焕英,http://159.75.85.63:35455/yy/1382736873
+经典烧脑剧—决胜法庭,http://159.75.85.63:35455/yy/1382745190
+24陪你看-成龙 -林正,http://159.75.85.63:35455/yy/38800583
+笑到喷饭！经典下饭喜剧精选,http://159.75.85.63:35455/yy/1382736844
+电影狄仁杰：悬疑升级，智商对决,http://159.75.85.63:35455/yy/1354930903
+央视精选-国家宝藏：展演季,http://159.75.85.63:35455/yy/1382736896
+揭秘！经典传奇背后的未解之谜,http://159.75.85.63:35455/yy/1382736912
+是心动啊~国产爱情片大赏！,http://159.75.85.63:35455/yy/1354936199
+从芭比到律政精英，律政俏佳人传奇,http://159.75.85.63:35455/yy/1382745099
+星球大战燃爆来袭！,http://159.75.85.63:35455/yy/1354932407
+迷糊不迷糊 正在直播,http://159.75.85.63:35455/yy/1461931969
+热血战争片,http://159.75.85.63:35455/yy/1354932409
+【战狼3吴京】超清,http://159.75.85.63:35455/yy/76101626
+大汉天子S3,http://159.75.85.63:35455/yy/1382736810
+秦岚高以翔演绎-怪你过分美丽,http://159.75.85.63:35455/yy/1354932359
+年代大剧-工人大院,http://159.75.85.63:35455/yy/1382745122
+X战警系列电影,http://159.75.85.63:35455/yy/1382736893
+欢乐饭米粒儿，笑点密集来袭,http://159.75.85.63:35455/yy/1382736798
+真心想让你幸福,http://159.75.85.63:35455/yy/1382736876
+狂飙2,http://159.75.85.63:35455/yy/28298966
+精彩动作电影享不停,http://159.75.85.63:35455/yy/1382736809
+狂飙-热映电视,http://159.75.85.63:35455/yy/1414949452
+精彩剧场大放送,http://159.75.85.63:35455/yy/1354748830
+倚天屠龙记,http://159.75.85.63:35455/yy/1457793883
+笑料满满，热门喜剧嗨翻天！,http://159.75.85.63:35455/yy/1354936169
+脑洞大开：国产国产科幻带你遨游异界,http://159.75.85.63:35455/yy/1382749953
+TVB收视爆剧-溏心风暴,http://159.75.85.63:35455/yy/1382736916
 动漫,#genre#
 猫和老鼠,http://159.75.85.63:35455/huya/11352879
 中华小当家,http://159.75.85.63:35455/huya/11342413
@@ -3739,3 +4306,5 @@ Q版三国剧集,http://159.75.85.63:35455/huya/29465871
 漫画解说,http://159.75.85.63:35455/yy/1382735568
 双月之城-国漫,http://159.75.85.63:35455/yy/1382736907
 国漫 一起看正在直播,http://159.75.85.63:35455/yy/1351417866
+料理小当家集,http://zzy789.xyz/douyu1.php?id=8231658
+柯南剧场版集,http://zzy789.xyz/douyu1.php?id=6484910  
