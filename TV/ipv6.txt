@@ -114,16 +114,22 @@
 江西教育,http://39.135.140.104:6610/PLTV/88888888/224/3221226197/1/index.m3u8?fmt=ts2hls
 江西教育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226197/2/index.m3u8
 江西移动,http://39.135.140.104:6610/PLTV/88888888/224/3221226285/1/index.m3u8?fmt=ts2hls
+江西卫视,http://39.135.140.104:6610/PLTV/88888888/224/3221225705/1/index.m3u8?fmt=ts2hls
+江西都市http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
+江西经济生活,http://39.135.140.104:6610/PLTV/88888888/224/3221226206/1/index.m3u8?fmt=ts2hls
+江西影视旅游,http://39.135.140.104:6610/PLTV/88888888/224/3221226291/1/index.m3u8?fmt=ts2hls
+江西公共农业,http://39.135.140.104:6610/PLTV/88888888/224/3221225578/1/index.m3u8?fmt=ts2hls
+江西少儿,http://39.135.140.104:6610/PLTV/88888888/224/3221226194/1/index.m3u8?fmt=ts2hls
+江西新闻,http://39.135.140.104:6610/PLTV/88888888/224/3221225615/1/index.m3u8?fmt=ts2hls
+江西移动,http://39.135.140.104:6610/PLTV/88888888/224/3221226285/1/index.m3u8?fmt=ts2hls
+江西教育,http://39.135.140.104:6610/PLTV/88888888/224/3221226197/1/index.m3u8?fmt=ts2hls
 南昌综合,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226382/2/index.m3u8
 南昌都市,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226385/2/index.m3u8
 南昌资讯,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226374/2/index.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-金庸剧场,http://live.dxms.top/dwy/jyjc.php
 星光剧场,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-经典喜剧,http://live.dxms.top/dwy/jdxj1.php
-经典喜剧,http://live.dxms.top/dwy/jdxj.php
 央视-1,#genre#
-CCTV1,http://39.135.140.104:6610/PLTV/88888888/224/3221225618/1/index.m3u8?fmt=ts2hls#
+CCTV1,http://39.135.140.104:6610/PLTV/88888888/224/3221225618/1/index.m3u8?fmt=ts2hls
 CCTV2,http://39.135.140.104:6610/PLTV/88888888/224/3221225619/1/index.m3u8?fmt=ts2hls
 CCTV3,http://39.135.140.104:6610/PLTV/88888888/224/3221225647/1/index.m3u8?fmt=ts2hls
 CCTV4,http://39.135.140.104:6610/PLTV/88888888/224/3221225621/1/index.m3u8?fmt=ts2hls
@@ -159,61 +165,25 @@ CCTV14,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225640/index.m3
 CCTV15,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225641/index.m3u8?
 CCTV16,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8?
 CCTV17,http://zxrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225908/index.m3u8?
-CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
-CCTV-2 财经,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?
-CCTV-3 综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
-CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
-CCTV-5 体育,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
-CCTV-6 电影,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
-CCTV-7 国防军事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
-CCTV-8 电视剧,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
-CCTV-9 纪录,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
-CCTV-10 科教,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
-CCTV-11 戏曲,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
-CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
-CCTV-13 新闻,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
-CCTV-14 少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
-CCTV-15 音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
-CCTV-16 奥林匹克,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
-CCTV-1 综合,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
-CCTV-2 财经,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002135/index.m3u8
-CCTV-3 综艺,http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
-CCTV-4 中文国际,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226539/index.m3u8
-CCTV-5 体育,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226146/index.m3u8
-CCTV-5+ 体育赛事,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002139/index.m3u8
-CCTV-6 电影,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226148/index.m3u8
-CCTV-7 国防军事,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002141/index.m3u8
-CCTV-8 电视剧,http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8
-CCTV-9 纪录,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226434/index.m3u8
-CCTV-10 科教,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226164/index.m3u8
-CCTV-11 戏曲,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226541/index.m3u8
-CCTV-12 社会与法,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226436/index.m3u8
-CCTV-13 新闻,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226438/index.m3u8
-CCTV-14 少儿,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002148/index.m3u8
-CCTV-15 音乐,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226616/index.m3u8
-CCTV-16 奥林匹克,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8
-CCTV-17 农业农村,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000513
-CCTV-1 综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
-CCTV-2 财经,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8
-CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
-CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
-CCTV-5 体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
-CCTV-6 电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
-CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
-CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
-CCTV-9 记录,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
-CCTV-10 科教,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8
-CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8
-CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
-CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
-CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
-CCTV-15 音乐,http://ottrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8
-CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
-央视频道,#genre#
+CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
+CCTV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
+CCTV5+,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
+CCTV6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
+CCTV7,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
+CCTV8,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
+CCTV9,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8
+CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
+CCTV15,http://ottrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8
+CCTV16,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
+CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
+央视-2,#genre#
 CCTV1,http://117.169.26.2:6610/PLTV/88888910/224/3221226221/index.m3u8
 CCTV1,http://117.169.26.2:6610/PLTV/88888888/224/3221226225/2/index.m3u8
 CCTV1,http://117.169.26.2:6610/PLTV/88888910/224/3221225618/index.m3u8
@@ -729,15 +699,9 @@ CHC家庭影院,http://117.169.26.2:6610/PLTV/88888888/224/3221226319/2/index.m3
 CHC家庭影院,http://117.169.26.2:6610/PLTV/88888910/224/3221226319/index.m3u8
 CHC影迷电影,http://117.169.26.2:6610/PLTV/88888888/224/3221226305/2/index.m3u8
 CHC影迷电影,http://117.169.26.2:6610/PLTV/88888910/224/3221226305/index.m3u8
-CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
-CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
 CHC动作电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226308/2/index.m3u8
-CHC动作电影,http://cg1.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?t=GybtsMb6rF4QAbWTetat6g%3D%3D&u=HNTV01YU00021202&p=8&cid=100000189&pid=&l=1&d=48555E45F7FC&ip=192.168.197.8&n=CHCDZDY_8000&errorcode=0&sid=Cr7LfDpXE67QA0Nus2tGvg%3D%3D&r=20231212111337&e=20231212151337&nc=RcaFZlcDLlzv&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422696805&srchost=172.16.22.158:8060&gid=f1hKFIYFjbQUf%2BTk5FhuTg%3D%3D
 CHC影迷电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226305/2/index.m3u8
-CHC影迷电影,http://cg6.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?t=VwFiKC8%2Fi8f%2B6CDdOS5f5A%3D%3D&u=HNTV01YU00021202&p=8&cid=10000081&pid=&l=1&d=48555E45F7FC&ip=192.168.197.127&n=CHCGQ_8000&errorcode=0&sid=MlE%2BuV%2FON7MM6310fiBTpg%3D%3D&r=20231212111248&e=20231212151248&nc=bHZFrU2ASl02&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422696237&srchost=172.16.22.158:8060&gid=P%2BUM0yvAUJ7cFgaqUZr56A%3D%3D
 CHC家庭影院,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
-CHC家庭影院,http://cg14.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?t=D360byGt%2BpZL3Wo1xiFxAw%3D%3D&u=HNTV01YU00021202&p=8&cid=100000190&pid=&l=1&d=48555E45F7FC&ip=192.168.197.125&n=CHCJTYY_8000&errorcode=0&sid=dc0dvd1mPBtLnOcG8ia8jA%3D%3D&r=20231212111401&e=20231212151401&nc=XOLY5A6gm03W&a=1111&pd=60&errorReason=0&v=2&project=WNTV&hlsSessionID=4379470835422697120&srchost=172.16.22.158:8060&gid=DHldhfgdMMpjpVp6NSOZqw%3D%3D
 精品影视,http://117.169.26.2:6610/PLTV/88888888/224/3221225712/2/index.m3u8
 精品影视,http://117.169.26.2:6610/PLTV/88888910/224/3221225712/index.m3u8
 畅想影院,http://117.169.26.2:6610/PLTV/88888910/224/3221226300/index.m3u8
@@ -848,8 +812,7 @@ iHOT 爱奇谈,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000
 iHOT 爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 iHOT 爱体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-
-SiTV频道,#genre#
+.SiTV频道,#genre#
 SiTV 五星体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 SiTV 劲爆体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 SiTV 欢笑剧场,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
