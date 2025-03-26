@@ -1,87 +1,3 @@
-AKTV,#genre#
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新闻台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-千禧经典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娱乐新闻台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-寰宇新闻台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-美亚电影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天电影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-龙华日韩台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龙华经典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龙华电影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-28 AI 智慧赛马,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-i-Fun 动漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-Astro Xing He,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-NHK东京绘合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-亚洲新闻台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-东方卫视国际频道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-无线卫星新闻台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-体育频道,#genre#
-纬来篮球,rtmp://f13h.mine.nu/sat/tv721
-BILLIARDTV台球,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
-智林体育台,https://litv.zapi.us.kg/?id=4gtv-4gtv101
-台湾体育1,rtmp://60.248.77.83/sat/md011
-台湾体育2,rtmp://60.248.77.83/sat/md051
-台湾体育3,rtmp://60.248.77.83/sat/md021
-台湾体育4,rtmp://60.248.77.83/sat/md041
-台湾体育5,rtmp://60.248.77.83/sat/md031
-ELEVEN1,rtmp://60.248.77.83/sat/tv731
-ELEVEN2,rtmp://60.248.77.83/sat/tv741
-MoMo综合,rtmp://60.248.77.83/sat/tv761
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-美国摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-新视觉台,http://lnsec.6655.la:9001/stream/channel/8ac6b15fabd7be36958c6871e48ba1be?profile=webtv-h264-aac-matroska
-风云足球,http://120.7.30.152:2024/live/风云足球/index.m3u8
-精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
-精品IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-超级IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-风云IPV6,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-风云IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-咪足IPV6,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-天元围棋,http://120.7.30.152:2024/live/天元围棋/index.m3u8
-美国摔角,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
 电影频道,#genre#
 外星+人2,https://v.cdnlz12.com/20240215/11573_4cb789fb/2000k/hls/mixed.m3u8
 外星+人2,https://yzzy1.play-cdn1.com/20240215/16550_5cc27412/2000k/hls/index.m3u8
@@ -1411,6 +1327,10 @@ xiaoxiao1004,http://127.0.0.1:35456/douyu/2569874
 生活,#genre#
 影视剧,http://127.0.0.1:35456/bilibili/31780106
 邵氏,http://127.0.0.1:35456/bilibili/1829027782
+爱情公寓2,http://127.0.0.1:35456/bilibili/22056077
+爱情公寓3,http://127.0.0.1:35456/bilibili/1836718519 
+爱情公寓4,http://127.0.0.1:35456/bilibili/1706434244
+屌丝男士,http://127.0.0.1:35456/bilibili/1876392103
 戒社,http://127.0.0.1:35456/bilibili/22188468
 憨憨熊来啦,http://127.0.0.1:35456/bilibili/1773637532
 Nero爱酱,http://127.0.0.1:35456/bilibili/26701152
@@ -4391,68 +4311,6 @@ Mai大叔,http://127.0.0.1:35456/huya/12359302
 孤独的美食家,http://127.0.0.1:35456/douyu/6733133
 幽游白书,http://127.0.0.1:35456/huya/11602034
 都市剧, http://127.0.0.1:35456/huya/29581262
-猎冰,http://127.0.0.1:35456/ciptv/cos-liebing.m3u8
-永安梦,http://127.0.0.1:35456/ciptv/cos-yonganmeng.m3u8
-漫长的季节,http://127.0.0.1:35456/ciptv/manchangdjj.m3u8
-梦中的那片海,http://127.0.0.1:35456/ciptv/mengzhongdnph.m3u8
-繁花,http://127.0.0.1:35456/ciptv/fanhua.m3u8
-庆余年,http://127.0.0.1:35456/ciptv/zhifouzf.m3u8
-百姓生活,http://127.0.0.1:35456/ciptv/baixingsh.m3u8
-黑土无言,http://127.0.0.1:35456/ciptv/COSHD-4000k-1080P-htwy.m3u8
-问心,http://127.0.0.1:35456/ciptv/COSHD-4000k-1080P-wenxin.m3u8
-父辈的荣耀,http://127.0.0.1:35456/ciptv/COSHD-4000k-1080P-fbdry.m3u8
-繁城之下,http://127.0.0.1:35456/ciptv/COSHD-4000k-1080P-fczx.m3u8
-小日子,http://127.0.0.1:35456/ciptv/COSHD-4000k-1080P-xiaorizi.m3u8
-谢谢你温暖我,http://127.0.0.1:35456/ciptv/COSHD-4000k-1080P-xxnwnw.m3u8
-当你沉睡时,http://127.0.0.1:35456/ciptv/COSHD-4000k-1080P-dncss.m3u8
-梨园经典荟萃,http://127.0.0.1:35456/ciptv/COSHD-4000k-1080P-lyjdhc.m3u8
-影视剧场,http://127.0.0.1:35456/ciptv/GITV-JS-1.m3u8
-第一院线,http://127.0.0.1:35456/ciptv/GITV-JS-2.m3u8
-居家健身,http://127.0.0.1:35456/ciptv/GITV-JS-4.m3u8
-电视剧,http://127.0.0.1:35456/ciptv/GITV-JS-6.m3u8
-二更视频,http://127.0.0.1:35456/ciptv/GITV-JS-7.m3u8
-德凯奥特曼,http://127.0.0.1:35456/ciptv/GITV-JS-9.m3u8
-熊出没,http://127.0.0.1:35456/ciptv/GITV-JS-10.m3u8
-超级飞侠,http://127.0.0.1:35456/ciptv/GITV-JS-11.m3u8
-小猪佩奇,http://127.0.0.1:35456/ciptv/GITV-JS-12.m3u8
-汪汪队立大功,http://127.0.0.1:35456/ciptv/GITV-JS-13.m3u8
-高分电影,http://127.0.0.1:35456/ciptv/GITV-JS-14.m3u8
-乡村爱情,http://127.0.0.1:35456/ciptv/GITV-JS-15.m3u8
-热门综艺,http://127.0.0.1:35456/ciptv/GITV-JS-16.m3u8
-美食美味,http://127.0.0.1:35456/ciptv/GITV-JS-17.m3u8
-自然风景,http://127.0.0.1:35456/ciptv/GITV-JS-18.m3u8
-动物世界,http://127.0.0.1:35456/ciptv/GITV-JS-19.m3u8
-书籍解读,http://127.0.0.1:35456/ciptv/GITV-JS-20.m3u8
-亲子玩具,http://127.0.0.1:35456/ciptv/GITV-JS-21.m3u8
-广场舞,http://127.0.0.1:35456/ciptv/GITV-JS-22.m3u8
-戏曲音乐,http://127.0.0.1:35456/ciptv/GITV-JS-23.m3u8
-相声联欢,http://127.0.0.1:35456/ciptv/GITV-JS-24.m3u8
-动漫星空,http://127.0.0.1:35456/ciptv/GITV-JS-25.m3u8
-楚乔传,http://127.0.0.1:35456/ciptv/GITV-JS-26.m3u8
-完美的她,http://127.0.0.1:35456/ciptv/GITV-JS-27.m3u8
-哈尔滨一九四四,http://127.0.0.1:35456/ciptv/GITV-JS-28.m3u8
-军事之旅,http://127.0.0.1:35456/ciptv/GITV-JS-29.m3u8
-科幻世界,http://127.0.0.1:35456/ciptv/GITV-JS-30.m3u8
-儿童天地,http://127.0.0.1:35456/ciptv/GITV-JS-31.m3u8
-纪录片,http://127.0.0.1:35456/ciptv/GITV-JS-32.m3u8
-音乐心情,http://127.0.0.1:35456/ciptv/GITV-JS-33.m3u8
-掼蛋频道,http://127.0.0.1:35456/ciptv/GITV-JS-34.m3u8
-体坛同期声,http://127.0.0.1:35456/ciptv/GITV-JS-35.m3u8
-臻享推荐,http://127.0.0.1:35456/ciptv/GITV-JS-36.m3u8
-怀旧MTV,http://127.0.0.1:35456/ciptv/GITV-JS-37.m3u8
-南来北往,http://127.0.0.1:35456/ciptv/GITV-JS-39.m3u8
-狗剩快跑,http://127.0.0.1:35456/ciptv/GITV-JS-40.m3u8
-狂飙,http://127.0.0.1:35456/ciptv/GITV-JS-41.m3u8
-人世间,http://127.0.0.1:35456/ciptv/GITV-JS-42.m3u8
-大江大河,http://127.0.0.1:35456/ciptv/GITV-JS-43.m3u8
-山海情,http://127.0.0.1:35456/ciptv/GITV-JS-44.m3u8
-冰雪竞技场,http://127.0.0.1:35456/ciptv/GITV-JS-45.m3u8
-邪恶与疯狂,http://127.0.0.1:35456/ciptv/GITV-JS-46.m3u8
-来自星星的你,http://127.0.0.1:35456/ciptv/GITV-JS-47.m3u8
-哦我的鬼神大人,http://127.0.0.1:35456/ciptv/GITV-JS-48.m3u8
-太阳的后裔,http://127.0.0.1:35456/ciptv/GITV-JS-49.m3u8
-请回答1988,http://127.0.0.1:35456/ciptv/ GITV-JS-50.m3u8
-玫瑰的故事,http://127.0.0.1:35456/ciptv/GITV-JS-68.m3u8
 亮剑,http://127.0.0.1:35456/ciptv/GITV-JS-70.m3u8
 爱情公寓,http://127.0.0.1:35456/huya/11336726
 爱情公寓3dy,http://127.0.0.1:35456/douyu/6566658
@@ -5325,6 +5183,7 @@ YY用户,http://127.0.0.1:35456/yy/85042287
 海绵宝宝,http://127.0.0.1:35456/huya/11352919
 哆啦A梦,http://127.0.0.1:35456/huya/11601963
 蜡笔小新,http://127.0.0.1:35456/huya/11352970
+咱们裸熊,http://127.0.0.1:35456/bilibili/1844848313
 成龙历险记,http://127.0.0.1:35456/huya/11352946
 樱桃小丸子,http://127.0.0.1:35456/huya/11342394
 火影忍者,http://127.0.0.1:35456/huya/11342385
