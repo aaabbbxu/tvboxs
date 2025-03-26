@@ -2,10 +2,13 @@
   "aliToken": "",
   "quarkCookie": "",
   "ucCookie": "",
+  "ucToken": "",
   "115Cookie": "",
-  "pwdRb115": "",
+  "pwdRb115": "",//115 删除码
   "goServerUrl": "http://127.0.0.1:9966",
-  "ydAuth": "",
-  "proxy":"http://127.0.0.1:1072",
-  "tgsou_api_session":""
+  "ydAuth": "cGM6MTM3NTU2MDg5NzU6UldHenF2R2l8MXxSQ1N8MTc0NDQxMTU0NzIyNXxFcVdkUi5QRklmb3RFNWZZRnZXODZFVktFSEdZZXFUM0xBX0F2MmdyMW9CMnd6dno2d1BpaTF3eGdqUDlNblV5YUFZaHVsM1c5ZXdYaU12ZXV6YXFRazhTSzdiaUUuWmpES1hWWFg2TmlJN1lPd3V2dkFxWEs4bXBiaVcuYy43YTdYSnBjMzdVMjlOVWFLUXRmajlDU0hLQ0M4dDBWa0lJSVg4XzhMN2Z6RjAt",//请求头中authorization 取basic 后面的值
+  "tyAuth": "13755608975|Xuxiangfei1979@",//账号|密码
+  "p123Auth":"13355146314|xuxiangfei1979",//账号|密码
+  "proxy": "http://127.0.0.1:1072",//默认代理端口 留空则使用外置代理
+  "tgPic": "false"//tgsou 图片显示与否
 }
