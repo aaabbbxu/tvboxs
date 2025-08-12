@@ -713,7 +713,7 @@ Cc,video://https://www.huya.com/11601966
 兜兜з,video://https://www.huya.com/11352910
 落于巧克力,video://https://www.huya.com/29465879
 堆堆港剧日记,video://https://www.huya.com/23903130
--懒猪,video://https://www.huya.com/11342393
+-懒猪,video://https://www.huya.com/。
 沉睡在你心底的光,video://https://www.huya.com/20985816
 小猪猪,video://https://www.huya.com/11342416
 堆堆港剧日常,video://https://www.huya.com/23903123
@@ -2874,13 +2874,16 @@ Mai大叔,video://https://www.huya.com/12359302
 电影_英叔,video://https://www.huya.com/11342421
 电影_发哥,video://https://www.huya.com/11342387
 电影_成龙,video://https://www.huya.com/11342386
+电影_成龙,video://https://www.huya.com/29835225
 电影_王晶,video://https://www.huya.com/11602058
 电影_强森,video://https://www.huya.com/21059581
 电影_漫威,video://https://www.huya.com/26355802
 电影_宇宙,video://https://www.huya.com/11342428
 电影_武侠,video://https://www.huya.com/11342427
-电影_救援,video://https://www.huya.com/21059594
+电影_大片,video://https://www.huya.com/913155
 电影_热血,video://https://www.huya.com/11352934
+堵片,video://https://www.huya.com/11342399
+电影_敢死队,video://https://www.huya.com/23864973
 电影_盗墓,video://https://www.huya.com/21059552
 电影_贺岁,video://https://www.huya.com/11601971
 电影_玄幻,video://https://www.huya.com/11342414
@@ -2900,6 +2903,7 @@ Mai大叔,video://https://www.huya.com/12359302
 电影_蜘蛛侠,video://https://www.huya.com/21059599
 电影_贺岁片,video://https://www.huya.com/11601986
 电影_功夫片,video://https://www.huya.com/11352941
+金庸武侠,video://https://www.douyu.com/30650192
 电影_黑帮片,video://https://www.huya.com/11336719
 电影_丧尸片,video://https://www.huya.com/21059578
 电影_灾难片,video://https://www.huya.com/11602075
@@ -2922,6 +2926,7 @@ Mai大叔,video://https://www.huya.com/12359302
 电影_经典女神,video://https://www.huya.com/11352909
 电影_许氏三杰,video://https://www.huya.com/11602033
 电影_经典港片,video://https://www.huya.com/11352965
+电影_港片,video://https://www.huya.com/21059618
 电影_镖行天下,video://https://www.huya.com/11352969
 电影_高能反转,video://https://www.huya.com/11352887
 电影_喜乐影院,video://https://www.huya.com/21059580
@@ -2930,6 +2935,7 @@ Mai大叔,video://https://www.huya.com/12359302
 电影_死神来了,video://https://www.huya.com/11352903
 电影_变形金刚,video://https://www.huya.com/21059596
 电影_怪兽系列,video://https://www.huya.com/21059554
+叶问,video://https://www.huya.com/23829543
 搞笑_陈翔六点半,video://https://www.huya.com/11274154 
 电影_小鬼头,video://https://www.huya.com/11352963
 电影_甄子丹,video://https://www.huya.com/11352935
@@ -2954,15 +2960,25 @@ Mai大叔,video://https://www.huya.com/12359302
 老友记,video://https://www.huya.com/26355834 
 破产姐妹,video://https://www.huya.com/21059564
 生活大爆炸,video://https://www.huya.com/30080189
-塔尔萨之王,video://https://www.douyu.com/23863822
+塔尔萨之王,video://https://www.huya.com/23863822
 神探夏洛克,video://https://www.huya.com/26355792 
+惩罚者,video://https://www.huya.com/23863822
 老爸老妈浪漫史,video://https://www.huya.com/26355853
-小谢尔顿, video://https://www.huya.com/26355785 
+怪奇物语,video://https://www.huya.com/880256
+小谢尔顿,video://https://www.huya.com/23903152
+ CSI犯罪现场,video://https://www.huya.com/20985825
 美剧1,video://https://www.huya.com/20985925 
-日剧, video://https://www.huya.com/26355857
+洛基,video://https://www.huya.com/29982654
+美剧2,video://https://www.huya.com/21059573
+美剧合集,video://https://www.huya.com/23865124 
+安多,video://https://www.huya.com/26355798
+僵尸国度,video://https://www.huya.com/11352947
+芦苇微微, video://https://www.huya.com/26355857
 我是大哥大,video://https://www.huya.com/23652317
 越狱,video://https://www.douyu.com/7575350
 美剧,video://https://www.huya.com/11342438
+韩剧1,video://https://www.huya.com/23863787
+韩剧2,video://https://www.huya.com/30080184
 超级英雄,video://https://www.huya.com/29982666
 星际迷航,video://https://www.huya.com/30080232
 超异能族,video://https://www.huya.com/21059586
@@ -2982,8 +2998,8 @@ Mai大叔,video://https://www.huya.com/12359302
 全职高手,video://https://www.huya.com/11352901
 古龙,video://https://www.huya.com/11342417
 将夜,video://https://www.huya.com/11352885
-鬼吹灯全集dy,video://https://www.douyu.com/9292503，
-鬼吹灯全集,video://https://www.huya.com/29768105
+扫黑风暴,video://https://www.huya.com/11342404
+鬼吹灯全集,video://https://www.douyu.com/9292503
 鬼吹灯之精绝古城,video://https://www.douyu.com/11649079
 鬼吹灯之精绝古城hy,video://https://www.huya.com/11352871
 鬼吹灯之精绝古城,video://https://www.douyu.com/5635000
@@ -3003,6 +3019,7 @@ Mai大叔,video://https://www.huya.com/12359302
 渗透,video://https://www.huya.com/30080244
 学生兵,video://https://wap.yy.com/mobileweb/1354658003
 河山,video://https://wap.yy.com/mobileweb/1382749952
+隐秘而伟大,video://https://www.huya.com/11352880
 风筝hy,video://https://www.huya.com/30080225
 风筝,video://https://wap.yy.com/mobileweb/1354931585
 风筝,video://https://wap.yy.com/mobileweb/1382828770
@@ -3023,6 +3040,8 @@ Mai大叔,video://https://www.huya.com/12359302
 知否知否,video://https://wap.yy.com/mobileweb/21881901
 正阳门下,video://https://wap.yy.com/mobileweb/1354931580
 漫长的季节,video://https://www.huya.com/11342393
+玫瑰的故事,video://https://www.huya.com/23865142
+大江大河,video://https://www.huya.com/23490183
 繁花,video://https://www.huya.com/21059580
 白鹿原,video://https://www.huya.com/11342416
 开端,video://https://www.huya.com/11342397
@@ -3031,6 +3050,7 @@ Mai大叔,video://https://www.huya.com/12359302
 精英律师,video://https://wap.yy.com/mobileweb/1382851578
 唐朝异闻录,video://https://www.huya.com/30080234
 古董局中局,video://https://www.douyu.com/9650783
+大秦帝国, video://https://www.huya.com/23903130
 血色浪漫,video://https://wap.yy.com/mobileweb/1354926676
 血色浪漫,video://https://wap.yy.com/mobileweb/1382745190
 强悍“杀猪婆”的励志人生,video://https://wap.yy.com/mobileweb/1354658062
@@ -3053,8 +3073,9 @@ Mai大叔,video://https://www.huya.com/12359302
 欢乐颂,video://https://www.douyu.com/3756989
 欢乐颂,video://https://wap.yy.com/mobileweb/1382851577
 欢乐颂,video://https://wap.yy.com/mobileweb/1382735624
+欢乐颂1,video://https://www.huya.com/29982666
 好先生dy,video://https://www.douyu.com/9650792
-好先生hy,video://https://www.huya.com/11602089
+好先生hy,video://https://www.huya.com/11602088
 好先生,video://https://wap.yy.com/mobileweb/79382500
 平凡岁月,video://https://wap.yy.com/mobileweb/1382745117
 鸡毛飞上天,video://https://wap.yy.com/mobileweb/1461033197
@@ -3145,7 +3166,6 @@ Mai大叔,video://https://www.huya.com/12359302
 士兵突击,video://https://wap.yy.com/mobileweb/1456622512
 士兵突击,video://https://wap.yy.com/mobileweb/1382851600
 家有儿女,video://https://www.huya.com/11352872
-邻里一家亲,video://https://www.huya.com/11342426
 少年包青天,video://https://wap.yy.com/mobileweb/1356043677
 少年包青天1-3,video://https://wap.yy.com/mobileweb/38498680
 少年包青天3,video://https://wap.yy.com/mobileweb/1382851540
@@ -3154,7 +3174,7 @@ Mai大叔,video://https://www.huya.com/12359302
 少年包青天,video://https://wap.yy.com/mobileweb/1382701828
 神医喜来乐,video://https://wap.yy.com/mobileweb/1382714119
 娘亲舅大,video://https://wap.yy.com/mobileweb/1354932360
-，打狗棍,video://https://wap.yy.com/mobileweb/39736069
+打狗棍,video://https://wap.yy.com/mobileweb/39736069
 宰相刘罗锅,video://https://wap.yy.com/mobileweb/1382745191
 康熙微服私访记,video://https://wap.yy.com/mobileweb/1352811698
 康熙王朝hy,video://https://www.huya.com/11352940
@@ -3295,6 +3315,7 @@ Mai大叔,video://https://www.huya.com/12359302
 使徒行者,video://https://www.huya.com/23734256
 我和僵尸有个约会,video://https://wap.yy.com/mobileweb/1354143966
 僵尸道长,video://https://www.douyu.com/7356023
+僵尸道长hy,video://https://www.huya.com/23865148 
 金枝欲孽,video://https://www.huya.com/23865036
 金玉满堂,video://https://wap.yy.com/mobileweb/1382736881
 飞虎之雷霆极战,video://https://wap.yy.com/mobileweb/1382736869
@@ -3305,23 +3326,22 @@ Mai大叔,video://https://www.huya.com/12359302
 法证先锋Ⅱ,video://https://wap.yy.com/mobileweb/1354888736
 法证先锋Ⅲhy,video://https://www.huya.com/23863804
 法证先锋Ⅲ,video://https://wap.yy.com/mobileweb/1382736802
-法证先锋Ⅳhy,video://https://www.huya.com/23829543
 法证先锋Ⅳ,video://https://wap.yy.com/mobileweb/1354932426
 谈判专家,video://https://wap.yy.com/mobileweb/1382735560
 三部僵约轮播,video://https://www.douyu.com/9470198
+僵约轮播 ,video://https://www.huya.com/21059571
 法证先锋,video://https://www.huya.com/23863804
 陀枪师姐,video://https://www.huya.com/23860039
-刑事侦缉档案,video://https://www.huya.com/23734169
+刑事侦缉档案,video://https://www.huya.com/29465856
 鉴证实录,video://https://www.huya.com/23903183
 蒲松龄,video://https://wap.yy.com/mobileweb/1354889042
 流金岁月,video://https://wap.yy.com/mobileweb/1382749906
 三个女人一个因,video://https://wap.yy.com/mobileweb/1382749953
 九江十二坊,video://https://wap.yy.com/mobileweb/1382735566
-洗冤录,video://https://www.huya.com/23903130
+洗冤录,video://https://www.huya.com/29465851 
 港剧,video://https://www.huya.com/29465852
 创世纪,video://https://www.huya.com/23749083
 扫黄先锋,video://https://www.huya.com/23903196
-妙手仁心,video://https://www.huya.com/23829543
 埋堆搞搞震,video://https://www.huya.com/23734169
 大头绿衣,video://https://www.huya.com/23865152
 读心神探,video://https://wap.yy.com/mobileweb/1382736875
@@ -3347,7 +3367,6 @@ Mai大叔,video://https://www.huya.com/12359302
 射雕英雄传83版,video://https://wap.yy.com/mobileweb/1354210357
 红天龙八部黄日华版,video://https://wap.yy.com/mobileweb/1351814644
 神雕侠侣古天乐版,video://https://www.huya.com/23865171
-笑傲江湖吕颂贤版,video://https://www.huya.com/23865142
 倚天屠龙记吴启华版,video://https://www.huya.com/23734246
 倚天屠龙记苏有朋版,video://https://wap.yy.com/mobileweb/1449856066
 宫心计,video://https://wap.yy.com/mobileweb/1354932429
