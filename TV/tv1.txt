@@ -2985,13 +2985,16 @@ Mai大叔,video://https://www.huya.com/12359302
 顺风妇产科,video://https://www.douyu.com/6369954
 鱿鱼游戏,video://https://www.huya.com/30080152
 孤独的美食家,video://https://www.douyu.com/6733133
+孤独的美食家,video://https://www.douyu.com/260322
 幽游白书,video://https://www.huya.com/11602034
 都市剧, video://https://www.huya.com/29581262
 爱情公寓,video://https://www.huya.com/11336726
+爱情公寓dy,video://https://www.douyu.com/4105989
 爱情公寓3dy,video://https://www.douyu.com/6566658
 爱情公寓5,video://https://www.douyu.com/6863367
 问心,video://https://www.huya.com/11352890
 外科风云,video://https://www.huya.com/29982672
+光荣时代,video://https://www.huya.com/30080193
 龙门客栈dy,video://https://www.douyu.com/9650860
 龙门客栈,video://https://www.huya.com/11352874
 猎罪图鉴,video://https://www.huya.com/11601962
@@ -2999,7 +3002,7 @@ Mai大叔,video://https://www.huya.com/12359302
 古龙,video://https://www.huya.com/11342417
 将夜,video://https://www.huya.com/11352885
 扫黑风暴,video://https://www.huya.com/11342404
-鬼吹灯全集,video://https://www.douyu.com/9292503
+鬼吹灯全集,video://https://www.douyu.com/11279861
 鬼吹灯之精绝古城,video://https://www.douyu.com/11649079
 鬼吹灯之精绝古城hy,video://https://www.huya.com/11352871
 鬼吹灯之精绝古城,video://https://www.douyu.com/5635000
@@ -3011,6 +3014,7 @@ Mai大叔,video://https://www.huya.com/12359302
 盗墓笔记,video://https://www.huya.com/11342415
 庆余年hy,video://https://www.huya.com/11352960
 庆余年dy,video://https://www.douyu.com/7489563
+武林外传dy,video://https://www.douyu.com/7039598
 都挺好hy,video://https://www.huya.com/21059594
 都挺好,video://https://wap.yy.com/mobileweb/1382736892
 闯关东dy,video://https://www.douyu.com/54945
@@ -3312,10 +3316,12 @@ Mai大叔,video://https://www.huya.com/12359302
 橙记港剧,video://https://www.douyu.com/4549169
 热门港剧,video://https://www.douyu.com/5522351
 人气港剧,video://https://www.douyu.com/5261342
+900重案,video://https://www.douyu.com/6906628
 使徒行者,video://https://www.huya.com/23734256
 我和僵尸有个约会,video://https://wap.yy.com/mobileweb/1354143966
 僵尸道长,video://https://www.douyu.com/7356023
 僵尸道长hy,video://https://www.huya.com/23865148 
+古灵精探,video://https://www.douyu.com/6091425 
 金枝欲孽,video://https://www.huya.com/23865036
 金玉满堂,video://https://wap.yy.com/mobileweb/1382736881
 飞虎之雷霆极战,video://https://wap.yy.com/mobileweb/1382736869
