@@ -3274,7 +3274,7 @@ Mai大叔,video://https://m.huya.com/12359302
 笑看风云,video://https://m.huya.com/23865058
 大时代hy,video://https://m.huya.com/23865161
 大时代,video://https://wap.yy.com/mobileweb/1354930891
-港剧台 ,video://https://wap.yy.com/mobileweb/1354936217
+港剧台,video://https://wap.yy.com/mobileweb/1354936217
 缺宅男女,video://https://wap.yy.com/mobileweb/1382745088
 缺宅男女,video://https://wap.yy.com/mobileweb/1354930937
 男亲女爱,video://https://wap.yy.com/mobileweb/1382736715
@@ -3339,7 +3339,6 @@ Mai大叔,video://https://m.huya.com/12359302
 新白娘子传奇,video://https://wap.yy.com/mobileweb/1354930969
 新白娘子传奇,video://https://wap.yy.com/mobileweb/1354490667
 新白娘子传奇,video://https://wap.yy.com/mobileweb/1508902755
-楚汉骄雄,video://https://m.huya.com/23740156
 大唐双龙传,video://https://wap.yy.com/mobileweb/1354930979
 YY电影,#genre#
 第一滴血全集,video://https://wap.yy.com/mobileweb/1354932355
